@@ -1,6 +1,6 @@
 # Copyright 2020 Observational Health Data Sciences and Informatics
 #
-# This file is part of obesityhira1011
+# This file is part of DMhirav2
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -16,13 +16,13 @@
 
 # Format and check code ---------------------------------------------------
 OhdsiRTools::formatRFolder()
-OhdsiRTools::checkUsagePackage("obesityhira1011")
+OhdsiRTools::checkUsagePackage("DMhirav2")
 OhdsiRTools::updateCopyrightYearFolder()
 devtools::spell_check()
 
 # Create manual -----------------------------------------------------------
-unlink("extras/obesityhira1011.pdf")
-shell("R CMD Rd2pdf ./ --output=extras/obesityhira1011.pdf")
+unlink("extras/DMhirav2.pdf")
+shell("R CMD Rd2pdf ./ --output=extras/DMhirav2.pdf")
 
 # Create vignettes ---------------------------------------------------------
 rmarkdown::render("vignettes/UsingSkeletonPackage.Rmd",
@@ -43,7 +43,7 @@ ROhdsiWebApi::insertCohortDefinitionSetInPackage(fileName = "CohortsToCreate.csv
                                                  insertTableSql = TRUE,
                                                  insertCohortCreationR = TRUE,
                                                  generateStats = FALSE,
-                                                 packageName = "obesityhira1011")
+                                                 packageName = "DMhirav2")
 
 # Create analysis details -------------------------------------------------
 source("extras/CreateStudyAnalysisDetails.R")
@@ -51,4 +51,4 @@ createAnalysesDetails("inst/settings/")
 createPositiveControlSynthesisArgs("inst/settings/")
 
 # Store environment in which the study was executed -----------------------
-OhdsiRTools::createRenvLockFile("obesityhira1011")
+OhdsiRTools::createRenvLockFile("DMhirav2")

@@ -25732,6 +25732,74 @@
                 "isExcluded": false,
                 "concept": {
                   "INVALID_REASON_CAPTION": "Valid",
+                  "CONCEPT_ID": 1501756,
+                  "STANDARD_CONCEPT": "C",
+                  "CONCEPT_CODE": "A10AE54",
+                  "VOCABULARY_ID": "ATC",
+                  "CONCEPT_NAME": "insulin glargine and lixisenatide; systemic",
+                  "DOMAIN_ID": "Drug",
+                  "STANDARD_CONCEPT_CAPTION": "Classification",
+                  "CONCEPT_CLASS_ID": "ATC 5th",
+                  "INVALID_REASON": "V"
+                },
+                "includeMapped": false,
+                "includeDescendants": true
+              },
+              {
+                "isExcluded": false,
+                "concept": {
+                  "INVALID_REASON_CAPTION": "Valid",
+                  "CONCEPT_ID": 1123739,
+                  "STANDARD_CONCEPT": "C",
+                  "CONCEPT_CODE": "A10BJ04",
+                  "VOCABULARY_ID": "ATC",
+                  "CONCEPT_NAME": "albiglutide; parenteral",
+                  "DOMAIN_ID": "Drug",
+                  "STANDARD_CONCEPT_CAPTION": "Classification",
+                  "CONCEPT_CLASS_ID": "ATC 5th",
+                  "INVALID_REASON": "V"
+                },
+                "includeMapped": false,
+                "includeDescendants": true
+              },
+              {
+                "isExcluded": false,
+                "concept": {
+                  "INVALID_REASON_CAPTION": "Valid",
+                  "CONCEPT_ID": 1123633,
+                  "STANDARD_CONCEPT": "C",
+                  "CONCEPT_CODE": "A10BJ01",
+                  "VOCABULARY_ID": "ATC",
+                  "CONCEPT_NAME": "exenatide; parenteral",
+                  "DOMAIN_ID": "Drug",
+                  "STANDARD_CONCEPT_CAPTION": "Classification",
+                  "CONCEPT_CLASS_ID": "ATC 5th",
+                  "INVALID_REASON": "V"
+                },
+                "includeMapped": false,
+                "includeDescendants": true
+              },
+              {
+                "isExcluded": false,
+                "concept": {
+                  "INVALID_REASON_CAPTION": "Valid",
+                  "CONCEPT_ID": 1123609,
+                  "STANDARD_CONCEPT": "C",
+                  "CONCEPT_CODE": "A10BJ03",
+                  "VOCABULARY_ID": "ATC",
+                  "CONCEPT_NAME": "lixisenatide; parenteral",
+                  "DOMAIN_ID": "Drug",
+                  "STANDARD_CONCEPT_CAPTION": "Classification",
+                  "CONCEPT_CLASS_ID": "ATC 5th",
+                  "INVALID_REASON": "V"
+                },
+                "includeMapped": false,
+                "includeDescendants": true
+              },
+              {
+                "isExcluded": false,
+                "concept": {
+                  "INVALID_REASON_CAPTION": "Valid",
                   "CONCEPT_ID": 45774435,
                   "STANDARD_CONCEPT": "S",
                   "CONCEPT_CODE": "1551291",
@@ -25744,10 +25812,61 @@
                 },
                 "includeMapped": false,
                 "includeDescendants": true
+              },
+              {
+                "isExcluded": false,
+                "concept": {
+                  "INVALID_REASON_CAPTION": "Valid",
+                  "CONCEPT_ID": 1583722,
+                  "STANDARD_CONCEPT": "S",
+                  "CONCEPT_CODE": "60548",
+                  "VOCABULARY_ID": "RxNorm",
+                  "CONCEPT_NAME": "exenatide",
+                  "DOMAIN_ID": "Drug",
+                  "STANDARD_CONCEPT_CAPTION": "Standard",
+                  "CONCEPT_CLASS_ID": "Ingredient",
+                  "INVALID_REASON": "V"
+                },
+                "includeMapped": false,
+                "includeDescendants": true
+              },
+              {
+                "isExcluded": false,
+                "concept": {
+                  "INVALID_REASON_CAPTION": "Valid",
+                  "CONCEPT_ID": 40170911,
+                  "STANDARD_CONCEPT": "S",
+                  "CONCEPT_CODE": "475968",
+                  "VOCABULARY_ID": "RxNorm",
+                  "CONCEPT_NAME": "liraglutide",
+                  "DOMAIN_ID": "Drug",
+                  "STANDARD_CONCEPT_CAPTION": "Standard",
+                  "CONCEPT_CLASS_ID": "Ingredient",
+                  "INVALID_REASON": "V"
+                },
+                "includeMapped": false,
+                "includeDescendants": true
+              },
+              {
+                "isExcluded": false,
+                "concept": {
+                  "INVALID_REASON_CAPTION": "Valid",
+                  "CONCEPT_ID": 44506754,
+                  "STANDARD_CONCEPT": "S",
+                  "CONCEPT_CODE": "1440051",
+                  "VOCABULARY_ID": "RxNorm",
+                  "CONCEPT_NAME": "lixisenatide",
+                  "DOMAIN_ID": "Drug",
+                  "STANDARD_CONCEPT_CAPTION": "Standard",
+                  "CONCEPT_CLASS_ID": "Ingredient",
+                  "INVALID_REASON": "V"
+                },
+                "includeMapped": false,
+                "includeDescendants": true
               }
             ]},
-            "name": "[PCH] dulaglutide (final) - T2DM",
-            "id": 34
+            "name": "[PCH] GLP1a (final) - T2DM",
+            "id": 36
           },
           {
             "expression": {"items": [
@@ -25954,143 +26073,24 @@
                 },
                 "includeMapped": false,
                 "includeDescendants": true
-              },
-              {
-                "isExcluded": false,
-                "concept": {
-                  "INVALID_REASON_CAPTION": "Valid",
-                  "CONCEPT_ID": 1123609,
-                  "STANDARD_CONCEPT": "C",
-                  "CONCEPT_CODE": "A10BJ03",
-                  "VOCABULARY_ID": "ATC",
-                  "CONCEPT_NAME": "lixisenatide; parenteral",
-                  "DOMAIN_ID": "Drug",
-                  "STANDARD_CONCEPT_CAPTION": "Classification",
-                  "CONCEPT_CLASS_ID": "ATC 5th",
-                  "INVALID_REASON": "V"
-                },
-                "includeMapped": false,
-                "includeDescendants": true
-              },
-              {
-                "isExcluded": false,
-                "concept": {
-                  "INVALID_REASON_CAPTION": "Valid",
-                  "CONCEPT_ID": 44506754,
-                  "STANDARD_CONCEPT": "S",
-                  "CONCEPT_CODE": "1440051",
-                  "VOCABULARY_ID": "RxNorm",
-                  "CONCEPT_NAME": "lixisenatide",
-                  "DOMAIN_ID": "Drug",
-                  "STANDARD_CONCEPT_CAPTION": "Standard",
-                  "CONCEPT_CLASS_ID": "Ingredient",
-                  "INVALID_REASON": "V"
-                },
-                "includeMapped": false,
-                "includeDescendants": true
-              },
-              {
-                "isExcluded": false,
-                "concept": {
-                  "INVALID_REASON_CAPTION": "Valid",
-                  "CONCEPT_ID": 40170911,
-                  "STANDARD_CONCEPT": "S",
-                  "CONCEPT_CODE": "475968",
-                  "VOCABULARY_ID": "RxNorm",
-                  "CONCEPT_NAME": "liraglutide",
-                  "DOMAIN_ID": "Drug",
-                  "STANDARD_CONCEPT_CAPTION": "Standard",
-                  "CONCEPT_CLASS_ID": "Ingredient",
-                  "INVALID_REASON": "V"
-                },
-                "includeMapped": false,
-                "includeDescendants": true
-              },
-              {
-                "isExcluded": false,
-                "concept": {
-                  "INVALID_REASON_CAPTION": "Valid",
-                  "CONCEPT_ID": 1501756,
-                  "STANDARD_CONCEPT": "C",
-                  "CONCEPT_CODE": "A10AE54",
-                  "VOCABULARY_ID": "ATC",
-                  "CONCEPT_NAME": "insulin glargine and lixisenatide; systemic",
-                  "DOMAIN_ID": "Drug",
-                  "STANDARD_CONCEPT_CAPTION": "Classification",
-                  "CONCEPT_CLASS_ID": "ATC 5th",
-                  "INVALID_REASON": "V"
-                },
-                "includeMapped": false,
-                "includeDescendants": true
-              },
-              {
-                "isExcluded": false,
-                "concept": {
-                  "INVALID_REASON_CAPTION": "Valid",
-                  "CONCEPT_ID": 1123633,
-                  "STANDARD_CONCEPT": "C",
-                  "CONCEPT_CODE": "A10BJ01",
-                  "VOCABULARY_ID": "ATC",
-                  "CONCEPT_NAME": "exenatide; parenteral",
-                  "DOMAIN_ID": "Drug",
-                  "STANDARD_CONCEPT_CAPTION": "Classification",
-                  "CONCEPT_CLASS_ID": "ATC 5th",
-                  "INVALID_REASON": "V"
-                },
-                "includeMapped": false,
-                "includeDescendants": true
-              },
-              {
-                "isExcluded": false,
-                "concept": {
-                  "INVALID_REASON_CAPTION": "Valid",
-                  "CONCEPT_ID": 1583722,
-                  "STANDARD_CONCEPT": "S",
-                  "CONCEPT_CODE": "60548",
-                  "VOCABULARY_ID": "RxNorm",
-                  "CONCEPT_NAME": "exenatide",
-                  "DOMAIN_ID": "Drug",
-                  "STANDARD_CONCEPT_CAPTION": "Standard",
-                  "CONCEPT_CLASS_ID": "Ingredient",
-                  "INVALID_REASON": "V"
-                },
-                "includeMapped": false,
-                "includeDescendants": true
-              },
-              {
-                "isExcluded": false,
-                "concept": {
-                  "INVALID_REASON_CAPTION": "Valid",
-                  "CONCEPT_ID": 1123739,
-                  "STANDARD_CONCEPT": "C",
-                  "CONCEPT_CODE": "A10BJ04",
-                  "VOCABULARY_ID": "ATC",
-                  "CONCEPT_NAME": "albiglutide; parenteral",
-                  "DOMAIN_ID": "Drug",
-                  "STANDARD_CONCEPT_CAPTION": "Classification",
-                  "CONCEPT_CLASS_ID": "ATC 5th",
-                  "INVALID_REASON": "V"
-                },
-                "includeMapped": false,
-                "includeDescendants": true
               }
             ]},
-            "name": "[PCH] SGLT2i and other GLP1a (final) - T2DM",
-            "id": 35
+            "name": "[PCH] SGLT2i (final) - T2DM",
+            "id": 37
           }
         ],
         "EndStrategy": {"CustomEra": {
-          "DrugCodesetId": 34,
+          "DrugCodesetId": 36,
           "DaysSupplyOverride": null,
           "GapDays": 180,
-          "Offset": 90
+          "Offset": 0
         }},
         "cdmVersionRange": ">=5.0.0",
         "CensoringCriteria": [{"DrugExposure": {
           "OccurrenceEndDate": null,
           "CorrelatedCriteria": null,
           "DrugSourceConcept": null,
-          "CodesetId": 35,
+          "CodesetId": 37,
           "DrugTypeExclude": false,
           "Quantity": null,
           "DrugType": null,
@@ -26230,7 +26230,7 @@
                   "OccurrenceEndDate": null,
                   "CorrelatedCriteria": null,
                   "DrugSourceConcept": null,
-                  "CodesetId": 35,
+                  "CodesetId": 37,
                   "DrugTypeExclude": false,
                   "Quantity": null,
                   "DrugType": null,
@@ -26473,7 +26473,7 @@
             "OccurrenceEndDate": null,
             "CorrelatedCriteria": null,
             "DrugSourceConcept": null,
-            "CodesetId": 34,
+            "CodesetId": 36,
             "DrugTypeExclude": false,
             "Quantity": null,
             "DrugType": null,
@@ -31433,6 +31433,74 @@
                 "isExcluded": false,
                 "concept": {
                   "INVALID_REASON_CAPTION": "Valid",
+                  "CONCEPT_ID": 1501756,
+                  "STANDARD_CONCEPT": "C",
+                  "CONCEPT_CODE": "A10AE54",
+                  "VOCABULARY_ID": "ATC",
+                  "CONCEPT_NAME": "insulin glargine and lixisenatide; systemic",
+                  "DOMAIN_ID": "Drug",
+                  "STANDARD_CONCEPT_CAPTION": "Classification",
+                  "CONCEPT_CLASS_ID": "ATC 5th",
+                  "INVALID_REASON": "V"
+                },
+                "includeMapped": false,
+                "includeDescendants": true
+              },
+              {
+                "isExcluded": false,
+                "concept": {
+                  "INVALID_REASON_CAPTION": "Valid",
+                  "CONCEPT_ID": 1123739,
+                  "STANDARD_CONCEPT": "C",
+                  "CONCEPT_CODE": "A10BJ04",
+                  "VOCABULARY_ID": "ATC",
+                  "CONCEPT_NAME": "albiglutide; parenteral",
+                  "DOMAIN_ID": "Drug",
+                  "STANDARD_CONCEPT_CAPTION": "Classification",
+                  "CONCEPT_CLASS_ID": "ATC 5th",
+                  "INVALID_REASON": "V"
+                },
+                "includeMapped": false,
+                "includeDescendants": true
+              },
+              {
+                "isExcluded": false,
+                "concept": {
+                  "INVALID_REASON_CAPTION": "Valid",
+                  "CONCEPT_ID": 1123633,
+                  "STANDARD_CONCEPT": "C",
+                  "CONCEPT_CODE": "A10BJ01",
+                  "VOCABULARY_ID": "ATC",
+                  "CONCEPT_NAME": "exenatide; parenteral",
+                  "DOMAIN_ID": "Drug",
+                  "STANDARD_CONCEPT_CAPTION": "Classification",
+                  "CONCEPT_CLASS_ID": "ATC 5th",
+                  "INVALID_REASON": "V"
+                },
+                "includeMapped": false,
+                "includeDescendants": true
+              },
+              {
+                "isExcluded": false,
+                "concept": {
+                  "INVALID_REASON_CAPTION": "Valid",
+                  "CONCEPT_ID": 1123609,
+                  "STANDARD_CONCEPT": "C",
+                  "CONCEPT_CODE": "A10BJ03",
+                  "VOCABULARY_ID": "ATC",
+                  "CONCEPT_NAME": "lixisenatide; parenteral",
+                  "DOMAIN_ID": "Drug",
+                  "STANDARD_CONCEPT_CAPTION": "Classification",
+                  "CONCEPT_CLASS_ID": "ATC 5th",
+                  "INVALID_REASON": "V"
+                },
+                "includeMapped": false,
+                "includeDescendants": true
+              },
+              {
+                "isExcluded": false,
+                "concept": {
+                  "INVALID_REASON_CAPTION": "Valid",
                   "CONCEPT_ID": 45774435,
                   "STANDARD_CONCEPT": "S",
                   "CONCEPT_CODE": "1551291",
@@ -31445,10 +31513,61 @@
                 },
                 "includeMapped": false,
                 "includeDescendants": true
+              },
+              {
+                "isExcluded": false,
+                "concept": {
+                  "INVALID_REASON_CAPTION": "Valid",
+                  "CONCEPT_ID": 1583722,
+                  "STANDARD_CONCEPT": "S",
+                  "CONCEPT_CODE": "60548",
+                  "VOCABULARY_ID": "RxNorm",
+                  "CONCEPT_NAME": "exenatide",
+                  "DOMAIN_ID": "Drug",
+                  "STANDARD_CONCEPT_CAPTION": "Standard",
+                  "CONCEPT_CLASS_ID": "Ingredient",
+                  "INVALID_REASON": "V"
+                },
+                "includeMapped": false,
+                "includeDescendants": true
+              },
+              {
+                "isExcluded": false,
+                "concept": {
+                  "INVALID_REASON_CAPTION": "Valid",
+                  "CONCEPT_ID": 40170911,
+                  "STANDARD_CONCEPT": "S",
+                  "CONCEPT_CODE": "475968",
+                  "VOCABULARY_ID": "RxNorm",
+                  "CONCEPT_NAME": "liraglutide",
+                  "DOMAIN_ID": "Drug",
+                  "STANDARD_CONCEPT_CAPTION": "Standard",
+                  "CONCEPT_CLASS_ID": "Ingredient",
+                  "INVALID_REASON": "V"
+                },
+                "includeMapped": false,
+                "includeDescendants": true
+              },
+              {
+                "isExcluded": false,
+                "concept": {
+                  "INVALID_REASON_CAPTION": "Valid",
+                  "CONCEPT_ID": 44506754,
+                  "STANDARD_CONCEPT": "S",
+                  "CONCEPT_CODE": "1440051",
+                  "VOCABULARY_ID": "RxNorm",
+                  "CONCEPT_NAME": "lixisenatide",
+                  "DOMAIN_ID": "Drug",
+                  "STANDARD_CONCEPT_CAPTION": "Standard",
+                  "CONCEPT_CLASS_ID": "Ingredient",
+                  "INVALID_REASON": "V"
+                },
+                "includeMapped": false,
+                "includeDescendants": true
               }
             ]},
-            "name": "[PCH] dulaglutide (final) - T2DM",
-            "id": 34
+            "name": "[PCH] GLP1a (final) - T2DM",
+            "id": 36
           },
           {
             "expression": {"items": [
@@ -31655,143 +31774,24 @@
                 },
                 "includeMapped": false,
                 "includeDescendants": true
-              },
-              {
-                "isExcluded": false,
-                "concept": {
-                  "INVALID_REASON_CAPTION": "Valid",
-                  "CONCEPT_ID": 1123609,
-                  "STANDARD_CONCEPT": "C",
-                  "CONCEPT_CODE": "A10BJ03",
-                  "VOCABULARY_ID": "ATC",
-                  "CONCEPT_NAME": "lixisenatide; parenteral",
-                  "DOMAIN_ID": "Drug",
-                  "STANDARD_CONCEPT_CAPTION": "Classification",
-                  "CONCEPT_CLASS_ID": "ATC 5th",
-                  "INVALID_REASON": "V"
-                },
-                "includeMapped": false,
-                "includeDescendants": true
-              },
-              {
-                "isExcluded": false,
-                "concept": {
-                  "INVALID_REASON_CAPTION": "Valid",
-                  "CONCEPT_ID": 44506754,
-                  "STANDARD_CONCEPT": "S",
-                  "CONCEPT_CODE": "1440051",
-                  "VOCABULARY_ID": "RxNorm",
-                  "CONCEPT_NAME": "lixisenatide",
-                  "DOMAIN_ID": "Drug",
-                  "STANDARD_CONCEPT_CAPTION": "Standard",
-                  "CONCEPT_CLASS_ID": "Ingredient",
-                  "INVALID_REASON": "V"
-                },
-                "includeMapped": false,
-                "includeDescendants": true
-              },
-              {
-                "isExcluded": false,
-                "concept": {
-                  "INVALID_REASON_CAPTION": "Valid",
-                  "CONCEPT_ID": 40170911,
-                  "STANDARD_CONCEPT": "S",
-                  "CONCEPT_CODE": "475968",
-                  "VOCABULARY_ID": "RxNorm",
-                  "CONCEPT_NAME": "liraglutide",
-                  "DOMAIN_ID": "Drug",
-                  "STANDARD_CONCEPT_CAPTION": "Standard",
-                  "CONCEPT_CLASS_ID": "Ingredient",
-                  "INVALID_REASON": "V"
-                },
-                "includeMapped": false,
-                "includeDescendants": true
-              },
-              {
-                "isExcluded": false,
-                "concept": {
-                  "INVALID_REASON_CAPTION": "Valid",
-                  "CONCEPT_ID": 1501756,
-                  "STANDARD_CONCEPT": "C",
-                  "CONCEPT_CODE": "A10AE54",
-                  "VOCABULARY_ID": "ATC",
-                  "CONCEPT_NAME": "insulin glargine and lixisenatide; systemic",
-                  "DOMAIN_ID": "Drug",
-                  "STANDARD_CONCEPT_CAPTION": "Classification",
-                  "CONCEPT_CLASS_ID": "ATC 5th",
-                  "INVALID_REASON": "V"
-                },
-                "includeMapped": false,
-                "includeDescendants": true
-              },
-              {
-                "isExcluded": false,
-                "concept": {
-                  "INVALID_REASON_CAPTION": "Valid",
-                  "CONCEPT_ID": 1123633,
-                  "STANDARD_CONCEPT": "C",
-                  "CONCEPT_CODE": "A10BJ01",
-                  "VOCABULARY_ID": "ATC",
-                  "CONCEPT_NAME": "exenatide; parenteral",
-                  "DOMAIN_ID": "Drug",
-                  "STANDARD_CONCEPT_CAPTION": "Classification",
-                  "CONCEPT_CLASS_ID": "ATC 5th",
-                  "INVALID_REASON": "V"
-                },
-                "includeMapped": false,
-                "includeDescendants": true
-              },
-              {
-                "isExcluded": false,
-                "concept": {
-                  "INVALID_REASON_CAPTION": "Valid",
-                  "CONCEPT_ID": 1583722,
-                  "STANDARD_CONCEPT": "S",
-                  "CONCEPT_CODE": "60548",
-                  "VOCABULARY_ID": "RxNorm",
-                  "CONCEPT_NAME": "exenatide",
-                  "DOMAIN_ID": "Drug",
-                  "STANDARD_CONCEPT_CAPTION": "Standard",
-                  "CONCEPT_CLASS_ID": "Ingredient",
-                  "INVALID_REASON": "V"
-                },
-                "includeMapped": false,
-                "includeDescendants": true
-              },
-              {
-                "isExcluded": false,
-                "concept": {
-                  "INVALID_REASON_CAPTION": "Valid",
-                  "CONCEPT_ID": 1123739,
-                  "STANDARD_CONCEPT": "C",
-                  "CONCEPT_CODE": "A10BJ04",
-                  "VOCABULARY_ID": "ATC",
-                  "CONCEPT_NAME": "albiglutide; parenteral",
-                  "DOMAIN_ID": "Drug",
-                  "STANDARD_CONCEPT_CAPTION": "Classification",
-                  "CONCEPT_CLASS_ID": "ATC 5th",
-                  "INVALID_REASON": "V"
-                },
-                "includeMapped": false,
-                "includeDescendants": true
               }
             ]},
-            "name": "[PCH] SGLT2i and other GLP1a (final) - T2DM",
-            "id": 35
+            "name": "[PCH] SGLT2i (final) - T2DM",
+            "id": 37
           }
         ],
         "EndStrategy": {"CustomEra": {
-          "DrugCodesetId": 34,
+          "DrugCodesetId": 36,
           "DaysSupplyOverride": null,
           "GapDays": 180,
-          "Offset": 90
+          "Offset": 0
         }},
         "cdmVersionRange": ">=5.0.0",
         "CensoringCriteria": [{"DrugExposure": {
           "OccurrenceEndDate": null,
           "CorrelatedCriteria": null,
           "DrugSourceConcept": null,
-          "CodesetId": 35,
+          "CodesetId": 37,
           "DrugTypeExclude": false,
           "Quantity": null,
           "DrugType": null,
@@ -31931,7 +31931,7 @@
                   "OccurrenceEndDate": null,
                   "CorrelatedCriteria": null,
                   "DrugSourceConcept": null,
-                  "CodesetId": 35,
+                  "CodesetId": 37,
                   "DrugTypeExclude": false,
                   "Quantity": null,
                   "DrugType": null,
@@ -32174,7 +32174,7 @@
             "OccurrenceEndDate": null,
             "CorrelatedCriteria": null,
             "DrugSourceConcept": null,
-            "CodesetId": 34,
+            "CodesetId": 36,
             "DrugTypeExclude": false,
             "Quantity": null,
             "DrugType": null,
@@ -32762,7 +32762,7 @@
           "DrugCodesetId": 24,
           "DaysSupplyOverride": null,
           "GapDays": 30,
-          "Offset": 30
+          "Offset": 0
         }},
         "cdmVersionRange": ">=5.0.0",
         "CensoringCriteria": [{"DrugExposure": {
@@ -33389,6 +33389,74 @@
                 "isExcluded": false,
                 "concept": {
                   "INVALID_REASON_CAPTION": "Valid",
+                  "CONCEPT_ID": 1501756,
+                  "STANDARD_CONCEPT": "C",
+                  "CONCEPT_CODE": "A10AE54",
+                  "VOCABULARY_ID": "ATC",
+                  "CONCEPT_NAME": "insulin glargine and lixisenatide; systemic",
+                  "DOMAIN_ID": "Drug",
+                  "STANDARD_CONCEPT_CAPTION": "Classification",
+                  "CONCEPT_CLASS_ID": "ATC 5th",
+                  "INVALID_REASON": "V"
+                },
+                "includeMapped": false,
+                "includeDescendants": true
+              },
+              {
+                "isExcluded": false,
+                "concept": {
+                  "INVALID_REASON_CAPTION": "Valid",
+                  "CONCEPT_ID": 1123739,
+                  "STANDARD_CONCEPT": "C",
+                  "CONCEPT_CODE": "A10BJ04",
+                  "VOCABULARY_ID": "ATC",
+                  "CONCEPT_NAME": "albiglutide; parenteral",
+                  "DOMAIN_ID": "Drug",
+                  "STANDARD_CONCEPT_CAPTION": "Classification",
+                  "CONCEPT_CLASS_ID": "ATC 5th",
+                  "INVALID_REASON": "V"
+                },
+                "includeMapped": false,
+                "includeDescendants": true
+              },
+              {
+                "isExcluded": false,
+                "concept": {
+                  "INVALID_REASON_CAPTION": "Valid",
+                  "CONCEPT_ID": 1123633,
+                  "STANDARD_CONCEPT": "C",
+                  "CONCEPT_CODE": "A10BJ01",
+                  "VOCABULARY_ID": "ATC",
+                  "CONCEPT_NAME": "exenatide; parenteral",
+                  "DOMAIN_ID": "Drug",
+                  "STANDARD_CONCEPT_CAPTION": "Classification",
+                  "CONCEPT_CLASS_ID": "ATC 5th",
+                  "INVALID_REASON": "V"
+                },
+                "includeMapped": false,
+                "includeDescendants": true
+              },
+              {
+                "isExcluded": false,
+                "concept": {
+                  "INVALID_REASON_CAPTION": "Valid",
+                  "CONCEPT_ID": 1123609,
+                  "STANDARD_CONCEPT": "C",
+                  "CONCEPT_CODE": "A10BJ03",
+                  "VOCABULARY_ID": "ATC",
+                  "CONCEPT_NAME": "lixisenatide; parenteral",
+                  "DOMAIN_ID": "Drug",
+                  "STANDARD_CONCEPT_CAPTION": "Classification",
+                  "CONCEPT_CLASS_ID": "ATC 5th",
+                  "INVALID_REASON": "V"
+                },
+                "includeMapped": false,
+                "includeDescendants": true
+              },
+              {
+                "isExcluded": false,
+                "concept": {
+                  "INVALID_REASON_CAPTION": "Valid",
                   "CONCEPT_ID": 45774435,
                   "STANDARD_CONCEPT": "S",
                   "CONCEPT_CODE": "1551291",
@@ -33401,10 +33469,61 @@
                 },
                 "includeMapped": false,
                 "includeDescendants": true
+              },
+              {
+                "isExcluded": false,
+                "concept": {
+                  "INVALID_REASON_CAPTION": "Valid",
+                  "CONCEPT_ID": 1583722,
+                  "STANDARD_CONCEPT": "S",
+                  "CONCEPT_CODE": "60548",
+                  "VOCABULARY_ID": "RxNorm",
+                  "CONCEPT_NAME": "exenatide",
+                  "DOMAIN_ID": "Drug",
+                  "STANDARD_CONCEPT_CAPTION": "Standard",
+                  "CONCEPT_CLASS_ID": "Ingredient",
+                  "INVALID_REASON": "V"
+                },
+                "includeMapped": false,
+                "includeDescendants": true
+              },
+              {
+                "isExcluded": false,
+                "concept": {
+                  "INVALID_REASON_CAPTION": "Valid",
+                  "CONCEPT_ID": 40170911,
+                  "STANDARD_CONCEPT": "S",
+                  "CONCEPT_CODE": "475968",
+                  "VOCABULARY_ID": "RxNorm",
+                  "CONCEPT_NAME": "liraglutide",
+                  "DOMAIN_ID": "Drug",
+                  "STANDARD_CONCEPT_CAPTION": "Standard",
+                  "CONCEPT_CLASS_ID": "Ingredient",
+                  "INVALID_REASON": "V"
+                },
+                "includeMapped": false,
+                "includeDescendants": true
+              },
+              {
+                "isExcluded": false,
+                "concept": {
+                  "INVALID_REASON_CAPTION": "Valid",
+                  "CONCEPT_ID": 44506754,
+                  "STANDARD_CONCEPT": "S",
+                  "CONCEPT_CODE": "1440051",
+                  "VOCABULARY_ID": "RxNorm",
+                  "CONCEPT_NAME": "lixisenatide",
+                  "DOMAIN_ID": "Drug",
+                  "STANDARD_CONCEPT_CAPTION": "Standard",
+                  "CONCEPT_CLASS_ID": "Ingredient",
+                  "INVALID_REASON": "V"
+                },
+                "includeMapped": false,
+                "includeDescendants": true
               }
             ]},
-            "name": "[PCH] dulaglutide (final) - T2DM",
-            "id": 34
+            "name": "[PCH] GLP1a (final) - T2DM",
+            "id": 36
           },
           {
             "expression": {"items": [
@@ -33611,143 +33730,24 @@
                 },
                 "includeMapped": false,
                 "includeDescendants": true
-              },
-              {
-                "isExcluded": false,
-                "concept": {
-                  "INVALID_REASON_CAPTION": "Valid",
-                  "CONCEPT_ID": 1123609,
-                  "STANDARD_CONCEPT": "C",
-                  "CONCEPT_CODE": "A10BJ03",
-                  "VOCABULARY_ID": "ATC",
-                  "CONCEPT_NAME": "lixisenatide; parenteral",
-                  "DOMAIN_ID": "Drug",
-                  "STANDARD_CONCEPT_CAPTION": "Classification",
-                  "CONCEPT_CLASS_ID": "ATC 5th",
-                  "INVALID_REASON": "V"
-                },
-                "includeMapped": false,
-                "includeDescendants": true
-              },
-              {
-                "isExcluded": false,
-                "concept": {
-                  "INVALID_REASON_CAPTION": "Valid",
-                  "CONCEPT_ID": 44506754,
-                  "STANDARD_CONCEPT": "S",
-                  "CONCEPT_CODE": "1440051",
-                  "VOCABULARY_ID": "RxNorm",
-                  "CONCEPT_NAME": "lixisenatide",
-                  "DOMAIN_ID": "Drug",
-                  "STANDARD_CONCEPT_CAPTION": "Standard",
-                  "CONCEPT_CLASS_ID": "Ingredient",
-                  "INVALID_REASON": "V"
-                },
-                "includeMapped": false,
-                "includeDescendants": true
-              },
-              {
-                "isExcluded": false,
-                "concept": {
-                  "INVALID_REASON_CAPTION": "Valid",
-                  "CONCEPT_ID": 40170911,
-                  "STANDARD_CONCEPT": "S",
-                  "CONCEPT_CODE": "475968",
-                  "VOCABULARY_ID": "RxNorm",
-                  "CONCEPT_NAME": "liraglutide",
-                  "DOMAIN_ID": "Drug",
-                  "STANDARD_CONCEPT_CAPTION": "Standard",
-                  "CONCEPT_CLASS_ID": "Ingredient",
-                  "INVALID_REASON": "V"
-                },
-                "includeMapped": false,
-                "includeDescendants": true
-              },
-              {
-                "isExcluded": false,
-                "concept": {
-                  "INVALID_REASON_CAPTION": "Valid",
-                  "CONCEPT_ID": 1501756,
-                  "STANDARD_CONCEPT": "C",
-                  "CONCEPT_CODE": "A10AE54",
-                  "VOCABULARY_ID": "ATC",
-                  "CONCEPT_NAME": "insulin glargine and lixisenatide; systemic",
-                  "DOMAIN_ID": "Drug",
-                  "STANDARD_CONCEPT_CAPTION": "Classification",
-                  "CONCEPT_CLASS_ID": "ATC 5th",
-                  "INVALID_REASON": "V"
-                },
-                "includeMapped": false,
-                "includeDescendants": true
-              },
-              {
-                "isExcluded": false,
-                "concept": {
-                  "INVALID_REASON_CAPTION": "Valid",
-                  "CONCEPT_ID": 1123633,
-                  "STANDARD_CONCEPT": "C",
-                  "CONCEPT_CODE": "A10BJ01",
-                  "VOCABULARY_ID": "ATC",
-                  "CONCEPT_NAME": "exenatide; parenteral",
-                  "DOMAIN_ID": "Drug",
-                  "STANDARD_CONCEPT_CAPTION": "Classification",
-                  "CONCEPT_CLASS_ID": "ATC 5th",
-                  "INVALID_REASON": "V"
-                },
-                "includeMapped": false,
-                "includeDescendants": true
-              },
-              {
-                "isExcluded": false,
-                "concept": {
-                  "INVALID_REASON_CAPTION": "Valid",
-                  "CONCEPT_ID": 1583722,
-                  "STANDARD_CONCEPT": "S",
-                  "CONCEPT_CODE": "60548",
-                  "VOCABULARY_ID": "RxNorm",
-                  "CONCEPT_NAME": "exenatide",
-                  "DOMAIN_ID": "Drug",
-                  "STANDARD_CONCEPT_CAPTION": "Standard",
-                  "CONCEPT_CLASS_ID": "Ingredient",
-                  "INVALID_REASON": "V"
-                },
-                "includeMapped": false,
-                "includeDescendants": true
-              },
-              {
-                "isExcluded": false,
-                "concept": {
-                  "INVALID_REASON_CAPTION": "Valid",
-                  "CONCEPT_ID": 1123739,
-                  "STANDARD_CONCEPT": "C",
-                  "CONCEPT_CODE": "A10BJ04",
-                  "VOCABULARY_ID": "ATC",
-                  "CONCEPT_NAME": "albiglutide; parenteral",
-                  "DOMAIN_ID": "Drug",
-                  "STANDARD_CONCEPT_CAPTION": "Classification",
-                  "CONCEPT_CLASS_ID": "ATC 5th",
-                  "INVALID_REASON": "V"
-                },
-                "includeMapped": false,
-                "includeDescendants": true
               }
             ]},
-            "name": "[PCH] SGLT2i and other GLP1a (final) - T2DM",
-            "id": 35
+            "name": "[PCH] SGLT2i (final) - T2DM",
+            "id": 37
           }
         ],
         "EndStrategy": {"CustomEra": {
-          "DrugCodesetId": 34,
+          "DrugCodesetId": 36,
           "DaysSupplyOverride": null,
           "GapDays": 180,
-          "Offset": 90
+          "Offset": 0
         }},
         "cdmVersionRange": ">=5.0.0",
         "CensoringCriteria": [{"DrugExposure": {
           "OccurrenceEndDate": null,
           "CorrelatedCriteria": null,
           "DrugSourceConcept": null,
-          "CodesetId": 35,
+          "CodesetId": 37,
           "DrugTypeExclude": false,
           "Quantity": null,
           "DrugType": null,
@@ -33887,7 +33887,7 @@
                   "OccurrenceEndDate": null,
                   "CorrelatedCriteria": null,
                   "DrugSourceConcept": null,
-                  "CodesetId": 35,
+                  "CodesetId": 37,
                   "DrugTypeExclude": false,
                   "Quantity": null,
                   "DrugType": null,
@@ -34130,7 +34130,7 @@
             "OccurrenceEndDate": null,
             "CorrelatedCriteria": null,
             "DrugSourceConcept": null,
-            "CodesetId": 34,
+            "CodesetId": 36,
             "DrugTypeExclude": false,
             "Quantity": null,
             "DrugType": null,
@@ -34729,7 +34729,7 @@
           "DrugCodesetId": 24,
           "DaysSupplyOverride": null,
           "GapDays": 30,
-          "Offset": 30
+          "Offset": 0
         }},
         "cdmVersionRange": ">=5.0.0",
         "CensoringCriteria": [{"DrugExposure": {
@@ -35367,6 +35367,74 @@
                 "isExcluded": false,
                 "concept": {
                   "INVALID_REASON_CAPTION": "Valid",
+                  "CONCEPT_ID": 1501756,
+                  "STANDARD_CONCEPT": "C",
+                  "CONCEPT_CODE": "A10AE54",
+                  "VOCABULARY_ID": "ATC",
+                  "CONCEPT_NAME": "insulin glargine and lixisenatide; systemic",
+                  "DOMAIN_ID": "Drug",
+                  "STANDARD_CONCEPT_CAPTION": "Classification",
+                  "CONCEPT_CLASS_ID": "ATC 5th",
+                  "INVALID_REASON": "V"
+                },
+                "includeMapped": false,
+                "includeDescendants": true
+              },
+              {
+                "isExcluded": false,
+                "concept": {
+                  "INVALID_REASON_CAPTION": "Valid",
+                  "CONCEPT_ID": 1123739,
+                  "STANDARD_CONCEPT": "C",
+                  "CONCEPT_CODE": "A10BJ04",
+                  "VOCABULARY_ID": "ATC",
+                  "CONCEPT_NAME": "albiglutide; parenteral",
+                  "DOMAIN_ID": "Drug",
+                  "STANDARD_CONCEPT_CAPTION": "Classification",
+                  "CONCEPT_CLASS_ID": "ATC 5th",
+                  "INVALID_REASON": "V"
+                },
+                "includeMapped": false,
+                "includeDescendants": true
+              },
+              {
+                "isExcluded": false,
+                "concept": {
+                  "INVALID_REASON_CAPTION": "Valid",
+                  "CONCEPT_ID": 1123633,
+                  "STANDARD_CONCEPT": "C",
+                  "CONCEPT_CODE": "A10BJ01",
+                  "VOCABULARY_ID": "ATC",
+                  "CONCEPT_NAME": "exenatide; parenteral",
+                  "DOMAIN_ID": "Drug",
+                  "STANDARD_CONCEPT_CAPTION": "Classification",
+                  "CONCEPT_CLASS_ID": "ATC 5th",
+                  "INVALID_REASON": "V"
+                },
+                "includeMapped": false,
+                "includeDescendants": true
+              },
+              {
+                "isExcluded": false,
+                "concept": {
+                  "INVALID_REASON_CAPTION": "Valid",
+                  "CONCEPT_ID": 1123609,
+                  "STANDARD_CONCEPT": "C",
+                  "CONCEPT_CODE": "A10BJ03",
+                  "VOCABULARY_ID": "ATC",
+                  "CONCEPT_NAME": "lixisenatide; parenteral",
+                  "DOMAIN_ID": "Drug",
+                  "STANDARD_CONCEPT_CAPTION": "Classification",
+                  "CONCEPT_CLASS_ID": "ATC 5th",
+                  "INVALID_REASON": "V"
+                },
+                "includeMapped": false,
+                "includeDescendants": true
+              },
+              {
+                "isExcluded": false,
+                "concept": {
+                  "INVALID_REASON_CAPTION": "Valid",
                   "CONCEPT_ID": 45774435,
                   "STANDARD_CONCEPT": "S",
                   "CONCEPT_CODE": "1551291",
@@ -35379,10 +35447,61 @@
                 },
                 "includeMapped": false,
                 "includeDescendants": true
+              },
+              {
+                "isExcluded": false,
+                "concept": {
+                  "INVALID_REASON_CAPTION": "Valid",
+                  "CONCEPT_ID": 1583722,
+                  "STANDARD_CONCEPT": "S",
+                  "CONCEPT_CODE": "60548",
+                  "VOCABULARY_ID": "RxNorm",
+                  "CONCEPT_NAME": "exenatide",
+                  "DOMAIN_ID": "Drug",
+                  "STANDARD_CONCEPT_CAPTION": "Standard",
+                  "CONCEPT_CLASS_ID": "Ingredient",
+                  "INVALID_REASON": "V"
+                },
+                "includeMapped": false,
+                "includeDescendants": true
+              },
+              {
+                "isExcluded": false,
+                "concept": {
+                  "INVALID_REASON_CAPTION": "Valid",
+                  "CONCEPT_ID": 40170911,
+                  "STANDARD_CONCEPT": "S",
+                  "CONCEPT_CODE": "475968",
+                  "VOCABULARY_ID": "RxNorm",
+                  "CONCEPT_NAME": "liraglutide",
+                  "DOMAIN_ID": "Drug",
+                  "STANDARD_CONCEPT_CAPTION": "Standard",
+                  "CONCEPT_CLASS_ID": "Ingredient",
+                  "INVALID_REASON": "V"
+                },
+                "includeMapped": false,
+                "includeDescendants": true
+              },
+              {
+                "isExcluded": false,
+                "concept": {
+                  "INVALID_REASON_CAPTION": "Valid",
+                  "CONCEPT_ID": 44506754,
+                  "STANDARD_CONCEPT": "S",
+                  "CONCEPT_CODE": "1440051",
+                  "VOCABULARY_ID": "RxNorm",
+                  "CONCEPT_NAME": "lixisenatide",
+                  "DOMAIN_ID": "Drug",
+                  "STANDARD_CONCEPT_CAPTION": "Standard",
+                  "CONCEPT_CLASS_ID": "Ingredient",
+                  "INVALID_REASON": "V"
+                },
+                "includeMapped": false,
+                "includeDescendants": true
               }
             ]},
-            "name": "[PCH] dulaglutide (final) - T2DM",
-            "id": 34
+            "name": "[PCH] GLP1a (final) - T2DM",
+            "id": 36
           },
           {
             "expression": {"items": [
@@ -35589,143 +35708,24 @@
                 },
                 "includeMapped": false,
                 "includeDescendants": true
-              },
-              {
-                "isExcluded": false,
-                "concept": {
-                  "INVALID_REASON_CAPTION": "Valid",
-                  "CONCEPT_ID": 1123609,
-                  "STANDARD_CONCEPT": "C",
-                  "CONCEPT_CODE": "A10BJ03",
-                  "VOCABULARY_ID": "ATC",
-                  "CONCEPT_NAME": "lixisenatide; parenteral",
-                  "DOMAIN_ID": "Drug",
-                  "STANDARD_CONCEPT_CAPTION": "Classification",
-                  "CONCEPT_CLASS_ID": "ATC 5th",
-                  "INVALID_REASON": "V"
-                },
-                "includeMapped": false,
-                "includeDescendants": true
-              },
-              {
-                "isExcluded": false,
-                "concept": {
-                  "INVALID_REASON_CAPTION": "Valid",
-                  "CONCEPT_ID": 44506754,
-                  "STANDARD_CONCEPT": "S",
-                  "CONCEPT_CODE": "1440051",
-                  "VOCABULARY_ID": "RxNorm",
-                  "CONCEPT_NAME": "lixisenatide",
-                  "DOMAIN_ID": "Drug",
-                  "STANDARD_CONCEPT_CAPTION": "Standard",
-                  "CONCEPT_CLASS_ID": "Ingredient",
-                  "INVALID_REASON": "V"
-                },
-                "includeMapped": false,
-                "includeDescendants": true
-              },
-              {
-                "isExcluded": false,
-                "concept": {
-                  "INVALID_REASON_CAPTION": "Valid",
-                  "CONCEPT_ID": 40170911,
-                  "STANDARD_CONCEPT": "S",
-                  "CONCEPT_CODE": "475968",
-                  "VOCABULARY_ID": "RxNorm",
-                  "CONCEPT_NAME": "liraglutide",
-                  "DOMAIN_ID": "Drug",
-                  "STANDARD_CONCEPT_CAPTION": "Standard",
-                  "CONCEPT_CLASS_ID": "Ingredient",
-                  "INVALID_REASON": "V"
-                },
-                "includeMapped": false,
-                "includeDescendants": true
-              },
-              {
-                "isExcluded": false,
-                "concept": {
-                  "INVALID_REASON_CAPTION": "Valid",
-                  "CONCEPT_ID": 1501756,
-                  "STANDARD_CONCEPT": "C",
-                  "CONCEPT_CODE": "A10AE54",
-                  "VOCABULARY_ID": "ATC",
-                  "CONCEPT_NAME": "insulin glargine and lixisenatide; systemic",
-                  "DOMAIN_ID": "Drug",
-                  "STANDARD_CONCEPT_CAPTION": "Classification",
-                  "CONCEPT_CLASS_ID": "ATC 5th",
-                  "INVALID_REASON": "V"
-                },
-                "includeMapped": false,
-                "includeDescendants": true
-              },
-              {
-                "isExcluded": false,
-                "concept": {
-                  "INVALID_REASON_CAPTION": "Valid",
-                  "CONCEPT_ID": 1123633,
-                  "STANDARD_CONCEPT": "C",
-                  "CONCEPT_CODE": "A10BJ01",
-                  "VOCABULARY_ID": "ATC",
-                  "CONCEPT_NAME": "exenatide; parenteral",
-                  "DOMAIN_ID": "Drug",
-                  "STANDARD_CONCEPT_CAPTION": "Classification",
-                  "CONCEPT_CLASS_ID": "ATC 5th",
-                  "INVALID_REASON": "V"
-                },
-                "includeMapped": false,
-                "includeDescendants": true
-              },
-              {
-                "isExcluded": false,
-                "concept": {
-                  "INVALID_REASON_CAPTION": "Valid",
-                  "CONCEPT_ID": 1583722,
-                  "STANDARD_CONCEPT": "S",
-                  "CONCEPT_CODE": "60548",
-                  "VOCABULARY_ID": "RxNorm",
-                  "CONCEPT_NAME": "exenatide",
-                  "DOMAIN_ID": "Drug",
-                  "STANDARD_CONCEPT_CAPTION": "Standard",
-                  "CONCEPT_CLASS_ID": "Ingredient",
-                  "INVALID_REASON": "V"
-                },
-                "includeMapped": false,
-                "includeDescendants": true
-              },
-              {
-                "isExcluded": false,
-                "concept": {
-                  "INVALID_REASON_CAPTION": "Valid",
-                  "CONCEPT_ID": 1123739,
-                  "STANDARD_CONCEPT": "C",
-                  "CONCEPT_CODE": "A10BJ04",
-                  "VOCABULARY_ID": "ATC",
-                  "CONCEPT_NAME": "albiglutide; parenteral",
-                  "DOMAIN_ID": "Drug",
-                  "STANDARD_CONCEPT_CAPTION": "Classification",
-                  "CONCEPT_CLASS_ID": "ATC 5th",
-                  "INVALID_REASON": "V"
-                },
-                "includeMapped": false,
-                "includeDescendants": true
               }
             ]},
-            "name": "[PCH] SGLT2i and other GLP1a (final) - T2DM",
-            "id": 35
+            "name": "[PCH] SGLT2i (final) - T2DM",
+            "id": 37
           }
         ],
         "EndStrategy": {"CustomEra": {
-          "DrugCodesetId": 34,
+          "DrugCodesetId": 36,
           "DaysSupplyOverride": null,
           "GapDays": 180,
-          "Offset": 90
+          "Offset": 0
         }},
         "cdmVersionRange": ">=5.0.0",
         "CensoringCriteria": [{"DrugExposure": {
           "OccurrenceEndDate": null,
           "CorrelatedCriteria": null,
           "DrugSourceConcept": null,
-          "CodesetId": 35,
+          "CodesetId": 37,
           "DrugTypeExclude": false,
           "Quantity": null,
           "DrugType": null,
@@ -35865,7 +35865,7 @@
                   "OccurrenceEndDate": null,
                   "CorrelatedCriteria": null,
                   "DrugSourceConcept": null,
-                  "CodesetId": 35,
+                  "CodesetId": 37,
                   "DrugTypeExclude": false,
                   "Quantity": null,
                   "DrugType": null,
@@ -36108,7 +36108,7 @@
             "OccurrenceEndDate": null,
             "CorrelatedCriteria": null,
             "DrugSourceConcept": null,
-            "CodesetId": 34,
+            "CodesetId": 36,
             "DrugTypeExclude": false,
             "Quantity": null,
             "DrugType": null,
@@ -36707,7 +36707,7 @@
           "DrugCodesetId": 28,
           "DaysSupplyOverride": null,
           "GapDays": 30,
-          "Offset": 30
+          "Offset": 0
         }},
         "cdmVersionRange": ">=5.0.0",
         "CensoringCriteria": [{"DrugExposure": {
@@ -37996,6 +37996,74 @@
                 "isExcluded": false,
                 "concept": {
                   "INVALID_REASON_CAPTION": "Valid",
+                  "CONCEPT_ID": 1501756,
+                  "STANDARD_CONCEPT": "C",
+                  "CONCEPT_CODE": "A10AE54",
+                  "VOCABULARY_ID": "ATC",
+                  "CONCEPT_NAME": "insulin glargine and lixisenatide; systemic",
+                  "DOMAIN_ID": "Drug",
+                  "STANDARD_CONCEPT_CAPTION": "Classification",
+                  "CONCEPT_CLASS_ID": "ATC 5th",
+                  "INVALID_REASON": "V"
+                },
+                "includeMapped": false,
+                "includeDescendants": true
+              },
+              {
+                "isExcluded": false,
+                "concept": {
+                  "INVALID_REASON_CAPTION": "Valid",
+                  "CONCEPT_ID": 1123739,
+                  "STANDARD_CONCEPT": "C",
+                  "CONCEPT_CODE": "A10BJ04",
+                  "VOCABULARY_ID": "ATC",
+                  "CONCEPT_NAME": "albiglutide; parenteral",
+                  "DOMAIN_ID": "Drug",
+                  "STANDARD_CONCEPT_CAPTION": "Classification",
+                  "CONCEPT_CLASS_ID": "ATC 5th",
+                  "INVALID_REASON": "V"
+                },
+                "includeMapped": false,
+                "includeDescendants": true
+              },
+              {
+                "isExcluded": false,
+                "concept": {
+                  "INVALID_REASON_CAPTION": "Valid",
+                  "CONCEPT_ID": 1123633,
+                  "STANDARD_CONCEPT": "C",
+                  "CONCEPT_CODE": "A10BJ01",
+                  "VOCABULARY_ID": "ATC",
+                  "CONCEPT_NAME": "exenatide; parenteral",
+                  "DOMAIN_ID": "Drug",
+                  "STANDARD_CONCEPT_CAPTION": "Classification",
+                  "CONCEPT_CLASS_ID": "ATC 5th",
+                  "INVALID_REASON": "V"
+                },
+                "includeMapped": false,
+                "includeDescendants": true
+              },
+              {
+                "isExcluded": false,
+                "concept": {
+                  "INVALID_REASON_CAPTION": "Valid",
+                  "CONCEPT_ID": 1123609,
+                  "STANDARD_CONCEPT": "C",
+                  "CONCEPT_CODE": "A10BJ03",
+                  "VOCABULARY_ID": "ATC",
+                  "CONCEPT_NAME": "lixisenatide; parenteral",
+                  "DOMAIN_ID": "Drug",
+                  "STANDARD_CONCEPT_CAPTION": "Classification",
+                  "CONCEPT_CLASS_ID": "ATC 5th",
+                  "INVALID_REASON": "V"
+                },
+                "includeMapped": false,
+                "includeDescendants": true
+              },
+              {
+                "isExcluded": false,
+                "concept": {
+                  "INVALID_REASON_CAPTION": "Valid",
                   "CONCEPT_ID": 45774435,
                   "STANDARD_CONCEPT": "S",
                   "CONCEPT_CODE": "1551291",
@@ -38008,10 +38076,61 @@
                 },
                 "includeMapped": false,
                 "includeDescendants": true
+              },
+              {
+                "isExcluded": false,
+                "concept": {
+                  "INVALID_REASON_CAPTION": "Valid",
+                  "CONCEPT_ID": 1583722,
+                  "STANDARD_CONCEPT": "S",
+                  "CONCEPT_CODE": "60548",
+                  "VOCABULARY_ID": "RxNorm",
+                  "CONCEPT_NAME": "exenatide",
+                  "DOMAIN_ID": "Drug",
+                  "STANDARD_CONCEPT_CAPTION": "Standard",
+                  "CONCEPT_CLASS_ID": "Ingredient",
+                  "INVALID_REASON": "V"
+                },
+                "includeMapped": false,
+                "includeDescendants": true
+              },
+              {
+                "isExcluded": false,
+                "concept": {
+                  "INVALID_REASON_CAPTION": "Valid",
+                  "CONCEPT_ID": 40170911,
+                  "STANDARD_CONCEPT": "S",
+                  "CONCEPT_CODE": "475968",
+                  "VOCABULARY_ID": "RxNorm",
+                  "CONCEPT_NAME": "liraglutide",
+                  "DOMAIN_ID": "Drug",
+                  "STANDARD_CONCEPT_CAPTION": "Standard",
+                  "CONCEPT_CLASS_ID": "Ingredient",
+                  "INVALID_REASON": "V"
+                },
+                "includeMapped": false,
+                "includeDescendants": true
+              },
+              {
+                "isExcluded": false,
+                "concept": {
+                  "INVALID_REASON_CAPTION": "Valid",
+                  "CONCEPT_ID": 44506754,
+                  "STANDARD_CONCEPT": "S",
+                  "CONCEPT_CODE": "1440051",
+                  "VOCABULARY_ID": "RxNorm",
+                  "CONCEPT_NAME": "lixisenatide",
+                  "DOMAIN_ID": "Drug",
+                  "STANDARD_CONCEPT_CAPTION": "Standard",
+                  "CONCEPT_CLASS_ID": "Ingredient",
+                  "INVALID_REASON": "V"
+                },
+                "includeMapped": false,
+                "includeDescendants": true
               }
             ]},
-            "name": "[PCH] dulaglutide (final) - T2DM",
-            "id": 38
+            "name": "[PCH] GLP1a (final) - T2DM",
+            "id": 40
           },
           {
             "expression": {"items": [
@@ -38218,143 +38337,24 @@
                 },
                 "includeMapped": false,
                 "includeDescendants": true
-              },
-              {
-                "isExcluded": false,
-                "concept": {
-                  "INVALID_REASON_CAPTION": "Valid",
-                  "CONCEPT_ID": 1123609,
-                  "STANDARD_CONCEPT": "C",
-                  "CONCEPT_CODE": "A10BJ03",
-                  "VOCABULARY_ID": "ATC",
-                  "CONCEPT_NAME": "lixisenatide; parenteral",
-                  "DOMAIN_ID": "Drug",
-                  "STANDARD_CONCEPT_CAPTION": "Classification",
-                  "CONCEPT_CLASS_ID": "ATC 5th",
-                  "INVALID_REASON": "V"
-                },
-                "includeMapped": false,
-                "includeDescendants": true
-              },
-              {
-                "isExcluded": false,
-                "concept": {
-                  "INVALID_REASON_CAPTION": "Valid",
-                  "CONCEPT_ID": 44506754,
-                  "STANDARD_CONCEPT": "S",
-                  "CONCEPT_CODE": "1440051",
-                  "VOCABULARY_ID": "RxNorm",
-                  "CONCEPT_NAME": "lixisenatide",
-                  "DOMAIN_ID": "Drug",
-                  "STANDARD_CONCEPT_CAPTION": "Standard",
-                  "CONCEPT_CLASS_ID": "Ingredient",
-                  "INVALID_REASON": "V"
-                },
-                "includeMapped": false,
-                "includeDescendants": true
-              },
-              {
-                "isExcluded": false,
-                "concept": {
-                  "INVALID_REASON_CAPTION": "Valid",
-                  "CONCEPT_ID": 40170911,
-                  "STANDARD_CONCEPT": "S",
-                  "CONCEPT_CODE": "475968",
-                  "VOCABULARY_ID": "RxNorm",
-                  "CONCEPT_NAME": "liraglutide",
-                  "DOMAIN_ID": "Drug",
-                  "STANDARD_CONCEPT_CAPTION": "Standard",
-                  "CONCEPT_CLASS_ID": "Ingredient",
-                  "INVALID_REASON": "V"
-                },
-                "includeMapped": false,
-                "includeDescendants": true
-              },
-              {
-                "isExcluded": false,
-                "concept": {
-                  "INVALID_REASON_CAPTION": "Valid",
-                  "CONCEPT_ID": 1501756,
-                  "STANDARD_CONCEPT": "C",
-                  "CONCEPT_CODE": "A10AE54",
-                  "VOCABULARY_ID": "ATC",
-                  "CONCEPT_NAME": "insulin glargine and lixisenatide; systemic",
-                  "DOMAIN_ID": "Drug",
-                  "STANDARD_CONCEPT_CAPTION": "Classification",
-                  "CONCEPT_CLASS_ID": "ATC 5th",
-                  "INVALID_REASON": "V"
-                },
-                "includeMapped": false,
-                "includeDescendants": true
-              },
-              {
-                "isExcluded": false,
-                "concept": {
-                  "INVALID_REASON_CAPTION": "Valid",
-                  "CONCEPT_ID": 1123633,
-                  "STANDARD_CONCEPT": "C",
-                  "CONCEPT_CODE": "A10BJ01",
-                  "VOCABULARY_ID": "ATC",
-                  "CONCEPT_NAME": "exenatide; parenteral",
-                  "DOMAIN_ID": "Drug",
-                  "STANDARD_CONCEPT_CAPTION": "Classification",
-                  "CONCEPT_CLASS_ID": "ATC 5th",
-                  "INVALID_REASON": "V"
-                },
-                "includeMapped": false,
-                "includeDescendants": true
-              },
-              {
-                "isExcluded": false,
-                "concept": {
-                  "INVALID_REASON_CAPTION": "Valid",
-                  "CONCEPT_ID": 1583722,
-                  "STANDARD_CONCEPT": "S",
-                  "CONCEPT_CODE": "60548",
-                  "VOCABULARY_ID": "RxNorm",
-                  "CONCEPT_NAME": "exenatide",
-                  "DOMAIN_ID": "Drug",
-                  "STANDARD_CONCEPT_CAPTION": "Standard",
-                  "CONCEPT_CLASS_ID": "Ingredient",
-                  "INVALID_REASON": "V"
-                },
-                "includeMapped": false,
-                "includeDescendants": true
-              },
-              {
-                "isExcluded": false,
-                "concept": {
-                  "INVALID_REASON_CAPTION": "Valid",
-                  "CONCEPT_ID": 1123739,
-                  "STANDARD_CONCEPT": "C",
-                  "CONCEPT_CODE": "A10BJ04",
-                  "VOCABULARY_ID": "ATC",
-                  "CONCEPT_NAME": "albiglutide; parenteral",
-                  "DOMAIN_ID": "Drug",
-                  "STANDARD_CONCEPT_CAPTION": "Classification",
-                  "CONCEPT_CLASS_ID": "ATC 5th",
-                  "INVALID_REASON": "V"
-                },
-                "includeMapped": false,
-                "includeDescendants": true
               }
             ]},
-            "name": "[PCH] SGLT2i and other GLP1a (final) - T2DM",
-            "id": 39
+            "name": "[PCH] SGLT2i (final) - T2DM",
+            "id": 41
           }
         ],
         "EndStrategy": {"CustomEra": {
-          "DrugCodesetId": 38,
+          "DrugCodesetId": 40,
           "DaysSupplyOverride": null,
           "GapDays": 180,
-          "Offset": 90
+          "Offset": 0
         }},
         "cdmVersionRange": ">=5.0.0",
         "CensoringCriteria": [{"DrugExposure": {
           "OccurrenceEndDate": null,
           "CorrelatedCriteria": null,
           "DrugSourceConcept": null,
-          "CodesetId": 39,
+          "CodesetId": 41,
           "DrugTypeExclude": false,
           "Quantity": null,
           "DrugType": null,
@@ -38494,7 +38494,7 @@
                   "OccurrenceEndDate": null,
                   "CorrelatedCriteria": null,
                   "DrugSourceConcept": null,
-                  "CodesetId": 39,
+                  "CodesetId": 41,
                   "DrugTypeExclude": false,
                   "Quantity": null,
                   "DrugType": null,
@@ -38904,7 +38904,7 @@
             "OccurrenceEndDate": null,
             "CorrelatedCriteria": null,
             "DrugSourceConcept": null,
-            "CodesetId": 38,
+            "CodesetId": 40,
             "DrugTypeExclude": false,
             "Quantity": null,
             "DrugType": null,
@@ -40143,7 +40143,7 @@
           "DrugCodesetId": 28,
           "DaysSupplyOverride": null,
           "GapDays": 30,
-          "Offset": 30
+          "Offset": 0
         }},
         "cdmVersionRange": ">=5.0.0",
         "CensoringCriteria": [{"DrugExposure": {
@@ -40958,6 +40958,74 @@
                 "isExcluded": false,
                 "concept": {
                   "INVALID_REASON_CAPTION": "Valid",
+                  "CONCEPT_ID": 1501756,
+                  "STANDARD_CONCEPT": "C",
+                  "CONCEPT_CODE": "A10AE54",
+                  "VOCABULARY_ID": "ATC",
+                  "CONCEPT_NAME": "insulin glargine and lixisenatide; systemic",
+                  "DOMAIN_ID": "Drug",
+                  "STANDARD_CONCEPT_CAPTION": "Classification",
+                  "CONCEPT_CLASS_ID": "ATC 5th",
+                  "INVALID_REASON": "V"
+                },
+                "includeMapped": false,
+                "includeDescendants": true
+              },
+              {
+                "isExcluded": false,
+                "concept": {
+                  "INVALID_REASON_CAPTION": "Valid",
+                  "CONCEPT_ID": 1123739,
+                  "STANDARD_CONCEPT": "C",
+                  "CONCEPT_CODE": "A10BJ04",
+                  "VOCABULARY_ID": "ATC",
+                  "CONCEPT_NAME": "albiglutide; parenteral",
+                  "DOMAIN_ID": "Drug",
+                  "STANDARD_CONCEPT_CAPTION": "Classification",
+                  "CONCEPT_CLASS_ID": "ATC 5th",
+                  "INVALID_REASON": "V"
+                },
+                "includeMapped": false,
+                "includeDescendants": true
+              },
+              {
+                "isExcluded": false,
+                "concept": {
+                  "INVALID_REASON_CAPTION": "Valid",
+                  "CONCEPT_ID": 1123633,
+                  "STANDARD_CONCEPT": "C",
+                  "CONCEPT_CODE": "A10BJ01",
+                  "VOCABULARY_ID": "ATC",
+                  "CONCEPT_NAME": "exenatide; parenteral",
+                  "DOMAIN_ID": "Drug",
+                  "STANDARD_CONCEPT_CAPTION": "Classification",
+                  "CONCEPT_CLASS_ID": "ATC 5th",
+                  "INVALID_REASON": "V"
+                },
+                "includeMapped": false,
+                "includeDescendants": true
+              },
+              {
+                "isExcluded": false,
+                "concept": {
+                  "INVALID_REASON_CAPTION": "Valid",
+                  "CONCEPT_ID": 1123609,
+                  "STANDARD_CONCEPT": "C",
+                  "CONCEPT_CODE": "A10BJ03",
+                  "VOCABULARY_ID": "ATC",
+                  "CONCEPT_NAME": "lixisenatide; parenteral",
+                  "DOMAIN_ID": "Drug",
+                  "STANDARD_CONCEPT_CAPTION": "Classification",
+                  "CONCEPT_CLASS_ID": "ATC 5th",
+                  "INVALID_REASON": "V"
+                },
+                "includeMapped": false,
+                "includeDescendants": true
+              },
+              {
+                "isExcluded": false,
+                "concept": {
+                  "INVALID_REASON_CAPTION": "Valid",
                   "CONCEPT_ID": 45774435,
                   "STANDARD_CONCEPT": "S",
                   "CONCEPT_CODE": "1551291",
@@ -40970,10 +41038,61 @@
                 },
                 "includeMapped": false,
                 "includeDescendants": true
+              },
+              {
+                "isExcluded": false,
+                "concept": {
+                  "INVALID_REASON_CAPTION": "Valid",
+                  "CONCEPT_ID": 1583722,
+                  "STANDARD_CONCEPT": "S",
+                  "CONCEPT_CODE": "60548",
+                  "VOCABULARY_ID": "RxNorm",
+                  "CONCEPT_NAME": "exenatide",
+                  "DOMAIN_ID": "Drug",
+                  "STANDARD_CONCEPT_CAPTION": "Standard",
+                  "CONCEPT_CLASS_ID": "Ingredient",
+                  "INVALID_REASON": "V"
+                },
+                "includeMapped": false,
+                "includeDescendants": true
+              },
+              {
+                "isExcluded": false,
+                "concept": {
+                  "INVALID_REASON_CAPTION": "Valid",
+                  "CONCEPT_ID": 40170911,
+                  "STANDARD_CONCEPT": "S",
+                  "CONCEPT_CODE": "475968",
+                  "VOCABULARY_ID": "RxNorm",
+                  "CONCEPT_NAME": "liraglutide",
+                  "DOMAIN_ID": "Drug",
+                  "STANDARD_CONCEPT_CAPTION": "Standard",
+                  "CONCEPT_CLASS_ID": "Ingredient",
+                  "INVALID_REASON": "V"
+                },
+                "includeMapped": false,
+                "includeDescendants": true
+              },
+              {
+                "isExcluded": false,
+                "concept": {
+                  "INVALID_REASON_CAPTION": "Valid",
+                  "CONCEPT_ID": 44506754,
+                  "STANDARD_CONCEPT": "S",
+                  "CONCEPT_CODE": "1440051",
+                  "VOCABULARY_ID": "RxNorm",
+                  "CONCEPT_NAME": "lixisenatide",
+                  "DOMAIN_ID": "Drug",
+                  "STANDARD_CONCEPT_CAPTION": "Standard",
+                  "CONCEPT_CLASS_ID": "Ingredient",
+                  "INVALID_REASON": "V"
+                },
+                "includeMapped": false,
+                "includeDescendants": true
               }
             ]},
-            "name": "[PCH] dulaglutide (final) - T2DM",
-            "id": 35
+            "name": "[PCH] GLP1a (final) - T2DM",
+            "id": 37
           },
           {
             "expression": {"items": [
@@ -41180,143 +41299,24 @@
                 },
                 "includeMapped": false,
                 "includeDescendants": true
-              },
-              {
-                "isExcluded": false,
-                "concept": {
-                  "INVALID_REASON_CAPTION": "Valid",
-                  "CONCEPT_ID": 1123609,
-                  "STANDARD_CONCEPT": "C",
-                  "CONCEPT_CODE": "A10BJ03",
-                  "VOCABULARY_ID": "ATC",
-                  "CONCEPT_NAME": "lixisenatide; parenteral",
-                  "DOMAIN_ID": "Drug",
-                  "STANDARD_CONCEPT_CAPTION": "Classification",
-                  "CONCEPT_CLASS_ID": "ATC 5th",
-                  "INVALID_REASON": "V"
-                },
-                "includeMapped": false,
-                "includeDescendants": true
-              },
-              {
-                "isExcluded": false,
-                "concept": {
-                  "INVALID_REASON_CAPTION": "Valid",
-                  "CONCEPT_ID": 44506754,
-                  "STANDARD_CONCEPT": "S",
-                  "CONCEPT_CODE": "1440051",
-                  "VOCABULARY_ID": "RxNorm",
-                  "CONCEPT_NAME": "lixisenatide",
-                  "DOMAIN_ID": "Drug",
-                  "STANDARD_CONCEPT_CAPTION": "Standard",
-                  "CONCEPT_CLASS_ID": "Ingredient",
-                  "INVALID_REASON": "V"
-                },
-                "includeMapped": false,
-                "includeDescendants": true
-              },
-              {
-                "isExcluded": false,
-                "concept": {
-                  "INVALID_REASON_CAPTION": "Valid",
-                  "CONCEPT_ID": 40170911,
-                  "STANDARD_CONCEPT": "S",
-                  "CONCEPT_CODE": "475968",
-                  "VOCABULARY_ID": "RxNorm",
-                  "CONCEPT_NAME": "liraglutide",
-                  "DOMAIN_ID": "Drug",
-                  "STANDARD_CONCEPT_CAPTION": "Standard",
-                  "CONCEPT_CLASS_ID": "Ingredient",
-                  "INVALID_REASON": "V"
-                },
-                "includeMapped": false,
-                "includeDescendants": true
-              },
-              {
-                "isExcluded": false,
-                "concept": {
-                  "INVALID_REASON_CAPTION": "Valid",
-                  "CONCEPT_ID": 1501756,
-                  "STANDARD_CONCEPT": "C",
-                  "CONCEPT_CODE": "A10AE54",
-                  "VOCABULARY_ID": "ATC",
-                  "CONCEPT_NAME": "insulin glargine and lixisenatide; systemic",
-                  "DOMAIN_ID": "Drug",
-                  "STANDARD_CONCEPT_CAPTION": "Classification",
-                  "CONCEPT_CLASS_ID": "ATC 5th",
-                  "INVALID_REASON": "V"
-                },
-                "includeMapped": false,
-                "includeDescendants": true
-              },
-              {
-                "isExcluded": false,
-                "concept": {
-                  "INVALID_REASON_CAPTION": "Valid",
-                  "CONCEPT_ID": 1123633,
-                  "STANDARD_CONCEPT": "C",
-                  "CONCEPT_CODE": "A10BJ01",
-                  "VOCABULARY_ID": "ATC",
-                  "CONCEPT_NAME": "exenatide; parenteral",
-                  "DOMAIN_ID": "Drug",
-                  "STANDARD_CONCEPT_CAPTION": "Classification",
-                  "CONCEPT_CLASS_ID": "ATC 5th",
-                  "INVALID_REASON": "V"
-                },
-                "includeMapped": false,
-                "includeDescendants": true
-              },
-              {
-                "isExcluded": false,
-                "concept": {
-                  "INVALID_REASON_CAPTION": "Valid",
-                  "CONCEPT_ID": 1583722,
-                  "STANDARD_CONCEPT": "S",
-                  "CONCEPT_CODE": "60548",
-                  "VOCABULARY_ID": "RxNorm",
-                  "CONCEPT_NAME": "exenatide",
-                  "DOMAIN_ID": "Drug",
-                  "STANDARD_CONCEPT_CAPTION": "Standard",
-                  "CONCEPT_CLASS_ID": "Ingredient",
-                  "INVALID_REASON": "V"
-                },
-                "includeMapped": false,
-                "includeDescendants": true
-              },
-              {
-                "isExcluded": false,
-                "concept": {
-                  "INVALID_REASON_CAPTION": "Valid",
-                  "CONCEPT_ID": 1123739,
-                  "STANDARD_CONCEPT": "C",
-                  "CONCEPT_CODE": "A10BJ04",
-                  "VOCABULARY_ID": "ATC",
-                  "CONCEPT_NAME": "albiglutide; parenteral",
-                  "DOMAIN_ID": "Drug",
-                  "STANDARD_CONCEPT_CAPTION": "Classification",
-                  "CONCEPT_CLASS_ID": "ATC 5th",
-                  "INVALID_REASON": "V"
-                },
-                "includeMapped": false,
-                "includeDescendants": true
               }
             ]},
-            "name": "[PCH] SGLT2i and other GLP1a (final) - T2DM",
-            "id": 36
+            "name": "[PCH] SGLT2i (final) - T2DM",
+            "id": 38
           }
         ],
         "EndStrategy": {"CustomEra": {
-          "DrugCodesetId": 35,
+          "DrugCodesetId": 37,
           "DaysSupplyOverride": null,
           "GapDays": 180,
-          "Offset": 90
+          "Offset": 0
         }},
         "cdmVersionRange": ">=5.0.0",
         "CensoringCriteria": [{"DrugExposure": {
           "OccurrenceEndDate": null,
           "CorrelatedCriteria": null,
           "DrugSourceConcept": null,
-          "CodesetId": 36,
+          "CodesetId": 38,
           "DrugTypeExclude": false,
           "Quantity": null,
           "DrugType": null,
@@ -41456,7 +41456,7 @@
                   "OccurrenceEndDate": null,
                   "CorrelatedCriteria": null,
                   "DrugSourceConcept": null,
-                  "CodesetId": 36,
+                  "CodesetId": 38,
                   "DrugTypeExclude": false,
                   "Quantity": null,
                   "DrugType": null,
@@ -41748,7 +41748,7 @@
             "OccurrenceEndDate": null,
             "CorrelatedCriteria": null,
             "DrugSourceConcept": null,
-            "CodesetId": 35,
+            "CodesetId": 37,
             "DrugTypeExclude": false,
             "Quantity": null,
             "DrugType": null,
@@ -42357,7 +42357,7 @@
           "DrugCodesetId": 28,
           "DaysSupplyOverride": null,
           "GapDays": 30,
-          "Offset": 30
+          "Offset": 0
         }},
         "cdmVersionRange": ">=5.0.0",
         "CensoringCriteria": [{"DrugExposure": {
@@ -43073,6 +43073,74 @@
                 "isExcluded": false,
                 "concept": {
                   "INVALID_REASON_CAPTION": "Valid",
+                  "CONCEPT_ID": 1501756,
+                  "STANDARD_CONCEPT": "C",
+                  "CONCEPT_CODE": "A10AE54",
+                  "VOCABULARY_ID": "ATC",
+                  "CONCEPT_NAME": "insulin glargine and lixisenatide; systemic",
+                  "DOMAIN_ID": "Drug",
+                  "STANDARD_CONCEPT_CAPTION": "Classification",
+                  "CONCEPT_CLASS_ID": "ATC 5th",
+                  "INVALID_REASON": "V"
+                },
+                "includeMapped": false,
+                "includeDescendants": true
+              },
+              {
+                "isExcluded": false,
+                "concept": {
+                  "INVALID_REASON_CAPTION": "Valid",
+                  "CONCEPT_ID": 1123739,
+                  "STANDARD_CONCEPT": "C",
+                  "CONCEPT_CODE": "A10BJ04",
+                  "VOCABULARY_ID": "ATC",
+                  "CONCEPT_NAME": "albiglutide; parenteral",
+                  "DOMAIN_ID": "Drug",
+                  "STANDARD_CONCEPT_CAPTION": "Classification",
+                  "CONCEPT_CLASS_ID": "ATC 5th",
+                  "INVALID_REASON": "V"
+                },
+                "includeMapped": false,
+                "includeDescendants": true
+              },
+              {
+                "isExcluded": false,
+                "concept": {
+                  "INVALID_REASON_CAPTION": "Valid",
+                  "CONCEPT_ID": 1123633,
+                  "STANDARD_CONCEPT": "C",
+                  "CONCEPT_CODE": "A10BJ01",
+                  "VOCABULARY_ID": "ATC",
+                  "CONCEPT_NAME": "exenatide; parenteral",
+                  "DOMAIN_ID": "Drug",
+                  "STANDARD_CONCEPT_CAPTION": "Classification",
+                  "CONCEPT_CLASS_ID": "ATC 5th",
+                  "INVALID_REASON": "V"
+                },
+                "includeMapped": false,
+                "includeDescendants": true
+              },
+              {
+                "isExcluded": false,
+                "concept": {
+                  "INVALID_REASON_CAPTION": "Valid",
+                  "CONCEPT_ID": 1123609,
+                  "STANDARD_CONCEPT": "C",
+                  "CONCEPT_CODE": "A10BJ03",
+                  "VOCABULARY_ID": "ATC",
+                  "CONCEPT_NAME": "lixisenatide; parenteral",
+                  "DOMAIN_ID": "Drug",
+                  "STANDARD_CONCEPT_CAPTION": "Classification",
+                  "CONCEPT_CLASS_ID": "ATC 5th",
+                  "INVALID_REASON": "V"
+                },
+                "includeMapped": false,
+                "includeDescendants": true
+              },
+              {
+                "isExcluded": false,
+                "concept": {
+                  "INVALID_REASON_CAPTION": "Valid",
                   "CONCEPT_ID": 45774435,
                   "STANDARD_CONCEPT": "S",
                   "CONCEPT_CODE": "1551291",
@@ -43085,10 +43153,61 @@
                 },
                 "includeMapped": false,
                 "includeDescendants": true
+              },
+              {
+                "isExcluded": false,
+                "concept": {
+                  "INVALID_REASON_CAPTION": "Valid",
+                  "CONCEPT_ID": 1583722,
+                  "STANDARD_CONCEPT": "S",
+                  "CONCEPT_CODE": "60548",
+                  "VOCABULARY_ID": "RxNorm",
+                  "CONCEPT_NAME": "exenatide",
+                  "DOMAIN_ID": "Drug",
+                  "STANDARD_CONCEPT_CAPTION": "Standard",
+                  "CONCEPT_CLASS_ID": "Ingredient",
+                  "INVALID_REASON": "V"
+                },
+                "includeMapped": false,
+                "includeDescendants": true
+              },
+              {
+                "isExcluded": false,
+                "concept": {
+                  "INVALID_REASON_CAPTION": "Valid",
+                  "CONCEPT_ID": 40170911,
+                  "STANDARD_CONCEPT": "S",
+                  "CONCEPT_CODE": "475968",
+                  "VOCABULARY_ID": "RxNorm",
+                  "CONCEPT_NAME": "liraglutide",
+                  "DOMAIN_ID": "Drug",
+                  "STANDARD_CONCEPT_CAPTION": "Standard",
+                  "CONCEPT_CLASS_ID": "Ingredient",
+                  "INVALID_REASON": "V"
+                },
+                "includeMapped": false,
+                "includeDescendants": true
+              },
+              {
+                "isExcluded": false,
+                "concept": {
+                  "INVALID_REASON_CAPTION": "Valid",
+                  "CONCEPT_ID": 44506754,
+                  "STANDARD_CONCEPT": "S",
+                  "CONCEPT_CODE": "1440051",
+                  "VOCABULARY_ID": "RxNorm",
+                  "CONCEPT_NAME": "lixisenatide",
+                  "DOMAIN_ID": "Drug",
+                  "STANDARD_CONCEPT_CAPTION": "Standard",
+                  "CONCEPT_CLASS_ID": "Ingredient",
+                  "INVALID_REASON": "V"
+                },
+                "includeMapped": false,
+                "includeDescendants": true
               }
             ]},
-            "name": "[PCH] dulaglutide (final) - T2DM",
-            "id": 35
+            "name": "[PCH] GLP1a (final) - T2DM",
+            "id": 37
           },
           {
             "expression": {"items": [
@@ -43295,143 +43414,24 @@
                 },
                 "includeMapped": false,
                 "includeDescendants": true
-              },
-              {
-                "isExcluded": false,
-                "concept": {
-                  "INVALID_REASON_CAPTION": "Valid",
-                  "CONCEPT_ID": 1123609,
-                  "STANDARD_CONCEPT": "C",
-                  "CONCEPT_CODE": "A10BJ03",
-                  "VOCABULARY_ID": "ATC",
-                  "CONCEPT_NAME": "lixisenatide; parenteral",
-                  "DOMAIN_ID": "Drug",
-                  "STANDARD_CONCEPT_CAPTION": "Classification",
-                  "CONCEPT_CLASS_ID": "ATC 5th",
-                  "INVALID_REASON": "V"
-                },
-                "includeMapped": false,
-                "includeDescendants": true
-              },
-              {
-                "isExcluded": false,
-                "concept": {
-                  "INVALID_REASON_CAPTION": "Valid",
-                  "CONCEPT_ID": 44506754,
-                  "STANDARD_CONCEPT": "S",
-                  "CONCEPT_CODE": "1440051",
-                  "VOCABULARY_ID": "RxNorm",
-                  "CONCEPT_NAME": "lixisenatide",
-                  "DOMAIN_ID": "Drug",
-                  "STANDARD_CONCEPT_CAPTION": "Standard",
-                  "CONCEPT_CLASS_ID": "Ingredient",
-                  "INVALID_REASON": "V"
-                },
-                "includeMapped": false,
-                "includeDescendants": true
-              },
-              {
-                "isExcluded": false,
-                "concept": {
-                  "INVALID_REASON_CAPTION": "Valid",
-                  "CONCEPT_ID": 40170911,
-                  "STANDARD_CONCEPT": "S",
-                  "CONCEPT_CODE": "475968",
-                  "VOCABULARY_ID": "RxNorm",
-                  "CONCEPT_NAME": "liraglutide",
-                  "DOMAIN_ID": "Drug",
-                  "STANDARD_CONCEPT_CAPTION": "Standard",
-                  "CONCEPT_CLASS_ID": "Ingredient",
-                  "INVALID_REASON": "V"
-                },
-                "includeMapped": false,
-                "includeDescendants": true
-              },
-              {
-                "isExcluded": false,
-                "concept": {
-                  "INVALID_REASON_CAPTION": "Valid",
-                  "CONCEPT_ID": 1501756,
-                  "STANDARD_CONCEPT": "C",
-                  "CONCEPT_CODE": "A10AE54",
-                  "VOCABULARY_ID": "ATC",
-                  "CONCEPT_NAME": "insulin glargine and lixisenatide; systemic",
-                  "DOMAIN_ID": "Drug",
-                  "STANDARD_CONCEPT_CAPTION": "Classification",
-                  "CONCEPT_CLASS_ID": "ATC 5th",
-                  "INVALID_REASON": "V"
-                },
-                "includeMapped": false,
-                "includeDescendants": true
-              },
-              {
-                "isExcluded": false,
-                "concept": {
-                  "INVALID_REASON_CAPTION": "Valid",
-                  "CONCEPT_ID": 1123633,
-                  "STANDARD_CONCEPT": "C",
-                  "CONCEPT_CODE": "A10BJ01",
-                  "VOCABULARY_ID": "ATC",
-                  "CONCEPT_NAME": "exenatide; parenteral",
-                  "DOMAIN_ID": "Drug",
-                  "STANDARD_CONCEPT_CAPTION": "Classification",
-                  "CONCEPT_CLASS_ID": "ATC 5th",
-                  "INVALID_REASON": "V"
-                },
-                "includeMapped": false,
-                "includeDescendants": true
-              },
-              {
-                "isExcluded": false,
-                "concept": {
-                  "INVALID_REASON_CAPTION": "Valid",
-                  "CONCEPT_ID": 1583722,
-                  "STANDARD_CONCEPT": "S",
-                  "CONCEPT_CODE": "60548",
-                  "VOCABULARY_ID": "RxNorm",
-                  "CONCEPT_NAME": "exenatide",
-                  "DOMAIN_ID": "Drug",
-                  "STANDARD_CONCEPT_CAPTION": "Standard",
-                  "CONCEPT_CLASS_ID": "Ingredient",
-                  "INVALID_REASON": "V"
-                },
-                "includeMapped": false,
-                "includeDescendants": true
-              },
-              {
-                "isExcluded": false,
-                "concept": {
-                  "INVALID_REASON_CAPTION": "Valid",
-                  "CONCEPT_ID": 1123739,
-                  "STANDARD_CONCEPT": "C",
-                  "CONCEPT_CODE": "A10BJ04",
-                  "VOCABULARY_ID": "ATC",
-                  "CONCEPT_NAME": "albiglutide; parenteral",
-                  "DOMAIN_ID": "Drug",
-                  "STANDARD_CONCEPT_CAPTION": "Classification",
-                  "CONCEPT_CLASS_ID": "ATC 5th",
-                  "INVALID_REASON": "V"
-                },
-                "includeMapped": false,
-                "includeDescendants": true
               }
             ]},
-            "name": "[PCH] SGLT2i and other GLP1a (final) - T2DM",
-            "id": 36
+            "name": "[PCH] SGLT2i (final) - T2DM",
+            "id": 38
           }
         ],
         "EndStrategy": {"CustomEra": {
-          "DrugCodesetId": 35,
+          "DrugCodesetId": 37,
           "DaysSupplyOverride": null,
           "GapDays": 180,
-          "Offset": 90
+          "Offset": 0
         }},
         "cdmVersionRange": ">=5.0.0",
         "CensoringCriteria": [{"DrugExposure": {
           "OccurrenceEndDate": null,
           "CorrelatedCriteria": null,
           "DrugSourceConcept": null,
-          "CodesetId": 36,
+          "CodesetId": 38,
           "DrugTypeExclude": false,
           "Quantity": null,
           "DrugType": null,
@@ -43571,7 +43571,7 @@
                   "OccurrenceEndDate": null,
                   "CorrelatedCriteria": null,
                   "DrugSourceConcept": null,
-                  "CodesetId": 36,
+                  "CodesetId": 38,
                   "DrugTypeExclude": false,
                   "Quantity": null,
                   "DrugType": null,
@@ -43863,7 +43863,7 @@
             "OccurrenceEndDate": null,
             "CorrelatedCriteria": null,
             "DrugSourceConcept": null,
-            "CodesetId": 35,
+            "CodesetId": 37,
             "DrugTypeExclude": false,
             "Quantity": null,
             "DrugType": null,
@@ -44491,7 +44491,7 @@
           "DrugCodesetId": 28,
           "DaysSupplyOverride": null,
           "GapDays": 30,
-          "Offset": 30
+          "Offset": 0
         }},
         "cdmVersionRange": ">=5.0.0",
         "CensoringCriteria": [{"DrugExposure": {
@@ -45167,6 +45167,74 @@
                 "isExcluded": false,
                 "concept": {
                   "INVALID_REASON_CAPTION": "Valid",
+                  "CONCEPT_ID": 1501756,
+                  "STANDARD_CONCEPT": "C",
+                  "CONCEPT_CODE": "A10AE54",
+                  "VOCABULARY_ID": "ATC",
+                  "CONCEPT_NAME": "insulin glargine and lixisenatide; systemic",
+                  "DOMAIN_ID": "Drug",
+                  "STANDARD_CONCEPT_CAPTION": "Classification",
+                  "CONCEPT_CLASS_ID": "ATC 5th",
+                  "INVALID_REASON": "V"
+                },
+                "includeMapped": false,
+                "includeDescendants": true
+              },
+              {
+                "isExcluded": false,
+                "concept": {
+                  "INVALID_REASON_CAPTION": "Valid",
+                  "CONCEPT_ID": 1123739,
+                  "STANDARD_CONCEPT": "C",
+                  "CONCEPT_CODE": "A10BJ04",
+                  "VOCABULARY_ID": "ATC",
+                  "CONCEPT_NAME": "albiglutide; parenteral",
+                  "DOMAIN_ID": "Drug",
+                  "STANDARD_CONCEPT_CAPTION": "Classification",
+                  "CONCEPT_CLASS_ID": "ATC 5th",
+                  "INVALID_REASON": "V"
+                },
+                "includeMapped": false,
+                "includeDescendants": true
+              },
+              {
+                "isExcluded": false,
+                "concept": {
+                  "INVALID_REASON_CAPTION": "Valid",
+                  "CONCEPT_ID": 1123633,
+                  "STANDARD_CONCEPT": "C",
+                  "CONCEPT_CODE": "A10BJ01",
+                  "VOCABULARY_ID": "ATC",
+                  "CONCEPT_NAME": "exenatide; parenteral",
+                  "DOMAIN_ID": "Drug",
+                  "STANDARD_CONCEPT_CAPTION": "Classification",
+                  "CONCEPT_CLASS_ID": "ATC 5th",
+                  "INVALID_REASON": "V"
+                },
+                "includeMapped": false,
+                "includeDescendants": true
+              },
+              {
+                "isExcluded": false,
+                "concept": {
+                  "INVALID_REASON_CAPTION": "Valid",
+                  "CONCEPT_ID": 1123609,
+                  "STANDARD_CONCEPT": "C",
+                  "CONCEPT_CODE": "A10BJ03",
+                  "VOCABULARY_ID": "ATC",
+                  "CONCEPT_NAME": "lixisenatide; parenteral",
+                  "DOMAIN_ID": "Drug",
+                  "STANDARD_CONCEPT_CAPTION": "Classification",
+                  "CONCEPT_CLASS_ID": "ATC 5th",
+                  "INVALID_REASON": "V"
+                },
+                "includeMapped": false,
+                "includeDescendants": true
+              },
+              {
+                "isExcluded": false,
+                "concept": {
+                  "INVALID_REASON_CAPTION": "Valid",
                   "CONCEPT_ID": 45774435,
                   "STANDARD_CONCEPT": "S",
                   "CONCEPT_CODE": "1551291",
@@ -45179,10 +45247,61 @@
                 },
                 "includeMapped": false,
                 "includeDescendants": true
+              },
+              {
+                "isExcluded": false,
+                "concept": {
+                  "INVALID_REASON_CAPTION": "Valid",
+                  "CONCEPT_ID": 1583722,
+                  "STANDARD_CONCEPT": "S",
+                  "CONCEPT_CODE": "60548",
+                  "VOCABULARY_ID": "RxNorm",
+                  "CONCEPT_NAME": "exenatide",
+                  "DOMAIN_ID": "Drug",
+                  "STANDARD_CONCEPT_CAPTION": "Standard",
+                  "CONCEPT_CLASS_ID": "Ingredient",
+                  "INVALID_REASON": "V"
+                },
+                "includeMapped": false,
+                "includeDescendants": true
+              },
+              {
+                "isExcluded": false,
+                "concept": {
+                  "INVALID_REASON_CAPTION": "Valid",
+                  "CONCEPT_ID": 40170911,
+                  "STANDARD_CONCEPT": "S",
+                  "CONCEPT_CODE": "475968",
+                  "VOCABULARY_ID": "RxNorm",
+                  "CONCEPT_NAME": "liraglutide",
+                  "DOMAIN_ID": "Drug",
+                  "STANDARD_CONCEPT_CAPTION": "Standard",
+                  "CONCEPT_CLASS_ID": "Ingredient",
+                  "INVALID_REASON": "V"
+                },
+                "includeMapped": false,
+                "includeDescendants": true
+              },
+              {
+                "isExcluded": false,
+                "concept": {
+                  "INVALID_REASON_CAPTION": "Valid",
+                  "CONCEPT_ID": 44506754,
+                  "STANDARD_CONCEPT": "S",
+                  "CONCEPT_CODE": "1440051",
+                  "VOCABULARY_ID": "RxNorm",
+                  "CONCEPT_NAME": "lixisenatide",
+                  "DOMAIN_ID": "Drug",
+                  "STANDARD_CONCEPT_CAPTION": "Standard",
+                  "CONCEPT_CLASS_ID": "Ingredient",
+                  "INVALID_REASON": "V"
+                },
+                "includeMapped": false,
+                "includeDescendants": true
               }
             ]},
-            "name": "[PCH] dulaglutide (final) - T2DM",
-            "id": 34
+            "name": "[PCH] GLP1a (final) - T2DM",
+            "id": 36
           },
           {
             "expression": {"items": [
@@ -45389,143 +45508,24 @@
                 },
                 "includeMapped": false,
                 "includeDescendants": true
-              },
-              {
-                "isExcluded": false,
-                "concept": {
-                  "INVALID_REASON_CAPTION": "Valid",
-                  "CONCEPT_ID": 1123609,
-                  "STANDARD_CONCEPT": "C",
-                  "CONCEPT_CODE": "A10BJ03",
-                  "VOCABULARY_ID": "ATC",
-                  "CONCEPT_NAME": "lixisenatide; parenteral",
-                  "DOMAIN_ID": "Drug",
-                  "STANDARD_CONCEPT_CAPTION": "Classification",
-                  "CONCEPT_CLASS_ID": "ATC 5th",
-                  "INVALID_REASON": "V"
-                },
-                "includeMapped": false,
-                "includeDescendants": true
-              },
-              {
-                "isExcluded": false,
-                "concept": {
-                  "INVALID_REASON_CAPTION": "Valid",
-                  "CONCEPT_ID": 44506754,
-                  "STANDARD_CONCEPT": "S",
-                  "CONCEPT_CODE": "1440051",
-                  "VOCABULARY_ID": "RxNorm",
-                  "CONCEPT_NAME": "lixisenatide",
-                  "DOMAIN_ID": "Drug",
-                  "STANDARD_CONCEPT_CAPTION": "Standard",
-                  "CONCEPT_CLASS_ID": "Ingredient",
-                  "INVALID_REASON": "V"
-                },
-                "includeMapped": false,
-                "includeDescendants": true
-              },
-              {
-                "isExcluded": false,
-                "concept": {
-                  "INVALID_REASON_CAPTION": "Valid",
-                  "CONCEPT_ID": 40170911,
-                  "STANDARD_CONCEPT": "S",
-                  "CONCEPT_CODE": "475968",
-                  "VOCABULARY_ID": "RxNorm",
-                  "CONCEPT_NAME": "liraglutide",
-                  "DOMAIN_ID": "Drug",
-                  "STANDARD_CONCEPT_CAPTION": "Standard",
-                  "CONCEPT_CLASS_ID": "Ingredient",
-                  "INVALID_REASON": "V"
-                },
-                "includeMapped": false,
-                "includeDescendants": true
-              },
-              {
-                "isExcluded": false,
-                "concept": {
-                  "INVALID_REASON_CAPTION": "Valid",
-                  "CONCEPT_ID": 1501756,
-                  "STANDARD_CONCEPT": "C",
-                  "CONCEPT_CODE": "A10AE54",
-                  "VOCABULARY_ID": "ATC",
-                  "CONCEPT_NAME": "insulin glargine and lixisenatide; systemic",
-                  "DOMAIN_ID": "Drug",
-                  "STANDARD_CONCEPT_CAPTION": "Classification",
-                  "CONCEPT_CLASS_ID": "ATC 5th",
-                  "INVALID_REASON": "V"
-                },
-                "includeMapped": false,
-                "includeDescendants": true
-              },
-              {
-                "isExcluded": false,
-                "concept": {
-                  "INVALID_REASON_CAPTION": "Valid",
-                  "CONCEPT_ID": 1123633,
-                  "STANDARD_CONCEPT": "C",
-                  "CONCEPT_CODE": "A10BJ01",
-                  "VOCABULARY_ID": "ATC",
-                  "CONCEPT_NAME": "exenatide; parenteral",
-                  "DOMAIN_ID": "Drug",
-                  "STANDARD_CONCEPT_CAPTION": "Classification",
-                  "CONCEPT_CLASS_ID": "ATC 5th",
-                  "INVALID_REASON": "V"
-                },
-                "includeMapped": false,
-                "includeDescendants": true
-              },
-              {
-                "isExcluded": false,
-                "concept": {
-                  "INVALID_REASON_CAPTION": "Valid",
-                  "CONCEPT_ID": 1583722,
-                  "STANDARD_CONCEPT": "S",
-                  "CONCEPT_CODE": "60548",
-                  "VOCABULARY_ID": "RxNorm",
-                  "CONCEPT_NAME": "exenatide",
-                  "DOMAIN_ID": "Drug",
-                  "STANDARD_CONCEPT_CAPTION": "Standard",
-                  "CONCEPT_CLASS_ID": "Ingredient",
-                  "INVALID_REASON": "V"
-                },
-                "includeMapped": false,
-                "includeDescendants": true
-              },
-              {
-                "isExcluded": false,
-                "concept": {
-                  "INVALID_REASON_CAPTION": "Valid",
-                  "CONCEPT_ID": 1123739,
-                  "STANDARD_CONCEPT": "C",
-                  "CONCEPT_CODE": "A10BJ04",
-                  "VOCABULARY_ID": "ATC",
-                  "CONCEPT_NAME": "albiglutide; parenteral",
-                  "DOMAIN_ID": "Drug",
-                  "STANDARD_CONCEPT_CAPTION": "Classification",
-                  "CONCEPT_CLASS_ID": "ATC 5th",
-                  "INVALID_REASON": "V"
-                },
-                "includeMapped": false,
-                "includeDescendants": true
               }
             ]},
-            "name": "[PCH] SGLT2i and other GLP1a (final) - T2DM",
-            "id": 35
+            "name": "[PCH] SGLT2i (final) - T2DM",
+            "id": 37
           }
         ],
         "EndStrategy": {"CustomEra": {
-          "DrugCodesetId": 34,
+          "DrugCodesetId": 36,
           "DaysSupplyOverride": null,
           "GapDays": 180,
-          "Offset": 90
+          "Offset": 0
         }},
         "cdmVersionRange": ">=5.0.0",
         "CensoringCriteria": [{"DrugExposure": {
           "OccurrenceEndDate": null,
           "CorrelatedCriteria": null,
           "DrugSourceConcept": null,
-          "CodesetId": 35,
+          "CodesetId": 37,
           "DrugTypeExclude": false,
           "Quantity": null,
           "DrugType": null,
@@ -45665,7 +45665,7 @@
                   "OccurrenceEndDate": null,
                   "CorrelatedCriteria": null,
                   "DrugSourceConcept": null,
-                  "CodesetId": 35,
+                  "CodesetId": 37,
                   "DrugTypeExclude": false,
                   "Quantity": null,
                   "DrugType": null,
@@ -45908,7 +45908,7 @@
             "OccurrenceEndDate": null,
             "CorrelatedCriteria": null,
             "DrugSourceConcept": null,
-            "CodesetId": 34,
+            "CodesetId": 36,
             "DrugTypeExclude": false,
             "Quantity": null,
             "DrugType": null,
@@ -46496,7 +46496,7 @@
           "DrugCodesetId": 24,
           "DaysSupplyOverride": null,
           "GapDays": 30,
-          "Offset": 30
+          "Offset": 0
         }},
         "cdmVersionRange": ">=5.0.0",
         "CensoringCriteria": [{"DrugExposure": {
@@ -47163,6 +47163,74 @@
                 "isExcluded": false,
                 "concept": {
                   "INVALID_REASON_CAPTION": "Valid",
+                  "CONCEPT_ID": 1501756,
+                  "STANDARD_CONCEPT": "C",
+                  "CONCEPT_CODE": "A10AE54",
+                  "VOCABULARY_ID": "ATC",
+                  "CONCEPT_NAME": "insulin glargine and lixisenatide; systemic",
+                  "DOMAIN_ID": "Drug",
+                  "STANDARD_CONCEPT_CAPTION": "Classification",
+                  "CONCEPT_CLASS_ID": "ATC 5th",
+                  "INVALID_REASON": "V"
+                },
+                "includeMapped": false,
+                "includeDescendants": true
+              },
+              {
+                "isExcluded": false,
+                "concept": {
+                  "INVALID_REASON_CAPTION": "Valid",
+                  "CONCEPT_ID": 1123739,
+                  "STANDARD_CONCEPT": "C",
+                  "CONCEPT_CODE": "A10BJ04",
+                  "VOCABULARY_ID": "ATC",
+                  "CONCEPT_NAME": "albiglutide; parenteral",
+                  "DOMAIN_ID": "Drug",
+                  "STANDARD_CONCEPT_CAPTION": "Classification",
+                  "CONCEPT_CLASS_ID": "ATC 5th",
+                  "INVALID_REASON": "V"
+                },
+                "includeMapped": false,
+                "includeDescendants": true
+              },
+              {
+                "isExcluded": false,
+                "concept": {
+                  "INVALID_REASON_CAPTION": "Valid",
+                  "CONCEPT_ID": 1123633,
+                  "STANDARD_CONCEPT": "C",
+                  "CONCEPT_CODE": "A10BJ01",
+                  "VOCABULARY_ID": "ATC",
+                  "CONCEPT_NAME": "exenatide; parenteral",
+                  "DOMAIN_ID": "Drug",
+                  "STANDARD_CONCEPT_CAPTION": "Classification",
+                  "CONCEPT_CLASS_ID": "ATC 5th",
+                  "INVALID_REASON": "V"
+                },
+                "includeMapped": false,
+                "includeDescendants": true
+              },
+              {
+                "isExcluded": false,
+                "concept": {
+                  "INVALID_REASON_CAPTION": "Valid",
+                  "CONCEPT_ID": 1123609,
+                  "STANDARD_CONCEPT": "C",
+                  "CONCEPT_CODE": "A10BJ03",
+                  "VOCABULARY_ID": "ATC",
+                  "CONCEPT_NAME": "lixisenatide; parenteral",
+                  "DOMAIN_ID": "Drug",
+                  "STANDARD_CONCEPT_CAPTION": "Classification",
+                  "CONCEPT_CLASS_ID": "ATC 5th",
+                  "INVALID_REASON": "V"
+                },
+                "includeMapped": false,
+                "includeDescendants": true
+              },
+              {
+                "isExcluded": false,
+                "concept": {
+                  "INVALID_REASON_CAPTION": "Valid",
                   "CONCEPT_ID": 45774435,
                   "STANDARD_CONCEPT": "S",
                   "CONCEPT_CODE": "1551291",
@@ -47175,10 +47243,61 @@
                 },
                 "includeMapped": false,
                 "includeDescendants": true
+              },
+              {
+                "isExcluded": false,
+                "concept": {
+                  "INVALID_REASON_CAPTION": "Valid",
+                  "CONCEPT_ID": 1583722,
+                  "STANDARD_CONCEPT": "S",
+                  "CONCEPT_CODE": "60548",
+                  "VOCABULARY_ID": "RxNorm",
+                  "CONCEPT_NAME": "exenatide",
+                  "DOMAIN_ID": "Drug",
+                  "STANDARD_CONCEPT_CAPTION": "Standard",
+                  "CONCEPT_CLASS_ID": "Ingredient",
+                  "INVALID_REASON": "V"
+                },
+                "includeMapped": false,
+                "includeDescendants": true
+              },
+              {
+                "isExcluded": false,
+                "concept": {
+                  "INVALID_REASON_CAPTION": "Valid",
+                  "CONCEPT_ID": 40170911,
+                  "STANDARD_CONCEPT": "S",
+                  "CONCEPT_CODE": "475968",
+                  "VOCABULARY_ID": "RxNorm",
+                  "CONCEPT_NAME": "liraglutide",
+                  "DOMAIN_ID": "Drug",
+                  "STANDARD_CONCEPT_CAPTION": "Standard",
+                  "CONCEPT_CLASS_ID": "Ingredient",
+                  "INVALID_REASON": "V"
+                },
+                "includeMapped": false,
+                "includeDescendants": true
+              },
+              {
+                "isExcluded": false,
+                "concept": {
+                  "INVALID_REASON_CAPTION": "Valid",
+                  "CONCEPT_ID": 44506754,
+                  "STANDARD_CONCEPT": "S",
+                  "CONCEPT_CODE": "1440051",
+                  "VOCABULARY_ID": "RxNorm",
+                  "CONCEPT_NAME": "lixisenatide",
+                  "DOMAIN_ID": "Drug",
+                  "STANDARD_CONCEPT_CAPTION": "Standard",
+                  "CONCEPT_CLASS_ID": "Ingredient",
+                  "INVALID_REASON": "V"
+                },
+                "includeMapped": false,
+                "includeDescendants": true
               }
             ]},
-            "name": "[PCH] dulaglutide (final) - T2DM",
-            "id": 35
+            "name": "[PCH] GLP1a (final) - T2DM",
+            "id": 37
           },
           {
             "expression": {"items": [
@@ -47385,143 +47504,24 @@
                 },
                 "includeMapped": false,
                 "includeDescendants": true
-              },
-              {
-                "isExcluded": false,
-                "concept": {
-                  "INVALID_REASON_CAPTION": "Valid",
-                  "CONCEPT_ID": 1123609,
-                  "STANDARD_CONCEPT": "C",
-                  "CONCEPT_CODE": "A10BJ03",
-                  "VOCABULARY_ID": "ATC",
-                  "CONCEPT_NAME": "lixisenatide; parenteral",
-                  "DOMAIN_ID": "Drug",
-                  "STANDARD_CONCEPT_CAPTION": "Classification",
-                  "CONCEPT_CLASS_ID": "ATC 5th",
-                  "INVALID_REASON": "V"
-                },
-                "includeMapped": false,
-                "includeDescendants": true
-              },
-              {
-                "isExcluded": false,
-                "concept": {
-                  "INVALID_REASON_CAPTION": "Valid",
-                  "CONCEPT_ID": 44506754,
-                  "STANDARD_CONCEPT": "S",
-                  "CONCEPT_CODE": "1440051",
-                  "VOCABULARY_ID": "RxNorm",
-                  "CONCEPT_NAME": "lixisenatide",
-                  "DOMAIN_ID": "Drug",
-                  "STANDARD_CONCEPT_CAPTION": "Standard",
-                  "CONCEPT_CLASS_ID": "Ingredient",
-                  "INVALID_REASON": "V"
-                },
-                "includeMapped": false,
-                "includeDescendants": true
-              },
-              {
-                "isExcluded": false,
-                "concept": {
-                  "INVALID_REASON_CAPTION": "Valid",
-                  "CONCEPT_ID": 40170911,
-                  "STANDARD_CONCEPT": "S",
-                  "CONCEPT_CODE": "475968",
-                  "VOCABULARY_ID": "RxNorm",
-                  "CONCEPT_NAME": "liraglutide",
-                  "DOMAIN_ID": "Drug",
-                  "STANDARD_CONCEPT_CAPTION": "Standard",
-                  "CONCEPT_CLASS_ID": "Ingredient",
-                  "INVALID_REASON": "V"
-                },
-                "includeMapped": false,
-                "includeDescendants": true
-              },
-              {
-                "isExcluded": false,
-                "concept": {
-                  "INVALID_REASON_CAPTION": "Valid",
-                  "CONCEPT_ID": 1501756,
-                  "STANDARD_CONCEPT": "C",
-                  "CONCEPT_CODE": "A10AE54",
-                  "VOCABULARY_ID": "ATC",
-                  "CONCEPT_NAME": "insulin glargine and lixisenatide; systemic",
-                  "DOMAIN_ID": "Drug",
-                  "STANDARD_CONCEPT_CAPTION": "Classification",
-                  "CONCEPT_CLASS_ID": "ATC 5th",
-                  "INVALID_REASON": "V"
-                },
-                "includeMapped": false,
-                "includeDescendants": true
-              },
-              {
-                "isExcluded": false,
-                "concept": {
-                  "INVALID_REASON_CAPTION": "Valid",
-                  "CONCEPT_ID": 1123633,
-                  "STANDARD_CONCEPT": "C",
-                  "CONCEPT_CODE": "A10BJ01",
-                  "VOCABULARY_ID": "ATC",
-                  "CONCEPT_NAME": "exenatide; parenteral",
-                  "DOMAIN_ID": "Drug",
-                  "STANDARD_CONCEPT_CAPTION": "Classification",
-                  "CONCEPT_CLASS_ID": "ATC 5th",
-                  "INVALID_REASON": "V"
-                },
-                "includeMapped": false,
-                "includeDescendants": true
-              },
-              {
-                "isExcluded": false,
-                "concept": {
-                  "INVALID_REASON_CAPTION": "Valid",
-                  "CONCEPT_ID": 1583722,
-                  "STANDARD_CONCEPT": "S",
-                  "CONCEPT_CODE": "60548",
-                  "VOCABULARY_ID": "RxNorm",
-                  "CONCEPT_NAME": "exenatide",
-                  "DOMAIN_ID": "Drug",
-                  "STANDARD_CONCEPT_CAPTION": "Standard",
-                  "CONCEPT_CLASS_ID": "Ingredient",
-                  "INVALID_REASON": "V"
-                },
-                "includeMapped": false,
-                "includeDescendants": true
-              },
-              {
-                "isExcluded": false,
-                "concept": {
-                  "INVALID_REASON_CAPTION": "Valid",
-                  "CONCEPT_ID": 1123739,
-                  "STANDARD_CONCEPT": "C",
-                  "CONCEPT_CODE": "A10BJ04",
-                  "VOCABULARY_ID": "ATC",
-                  "CONCEPT_NAME": "albiglutide; parenteral",
-                  "DOMAIN_ID": "Drug",
-                  "STANDARD_CONCEPT_CAPTION": "Classification",
-                  "CONCEPT_CLASS_ID": "ATC 5th",
-                  "INVALID_REASON": "V"
-                },
-                "includeMapped": false,
-                "includeDescendants": true
               }
             ]},
-            "name": "[PCH] SGLT2i and other GLP1a (final) - T2DM",
-            "id": 36
+            "name": "[PCH] SGLT2i (final) - T2DM",
+            "id": 38
           }
         ],
         "EndStrategy": {"CustomEra": {
-          "DrugCodesetId": 35,
+          "DrugCodesetId": 37,
           "DaysSupplyOverride": null,
           "GapDays": 180,
-          "Offset": 90
+          "Offset": 0
         }},
         "cdmVersionRange": ">=5.0.0",
         "CensoringCriteria": [{"DrugExposure": {
           "OccurrenceEndDate": null,
           "CorrelatedCriteria": null,
           "DrugSourceConcept": null,
-          "CodesetId": 36,
+          "CodesetId": 38,
           "DrugTypeExclude": false,
           "Quantity": null,
           "DrugType": null,
@@ -47661,7 +47661,7 @@
                   "OccurrenceEndDate": null,
                   "CorrelatedCriteria": null,
                   "DrugSourceConcept": null,
-                  "CodesetId": 36,
+                  "CodesetId": 38,
                   "DrugTypeExclude": false,
                   "Quantity": null,
                   "DrugType": null,
@@ -47959,7 +47959,7 @@
             "OccurrenceEndDate": null,
             "CorrelatedCriteria": null,
             "DrugSourceConcept": null,
-            "CodesetId": 35,
+            "CodesetId": 37,
             "DrugTypeExclude": false,
             "Quantity": null,
             "DrugType": null,
@@ -48587,7 +48587,7 @@
           "DrugCodesetId": 28,
           "DaysSupplyOverride": null,
           "GapDays": 30,
-          "Offset": 30
+          "Offset": 0
         }},
         "cdmVersionRange": ">=5.0.0",
         "CensoringCriteria": [{"DrugExposure": {
@@ -50017,6 +50017,74 @@
                 "isExcluded": false,
                 "concept": {
                   "INVALID_REASON_CAPTION": "Valid",
+                  "CONCEPT_ID": 1501756,
+                  "STANDARD_CONCEPT": "C",
+                  "CONCEPT_CODE": "A10AE54",
+                  "VOCABULARY_ID": "ATC",
+                  "CONCEPT_NAME": "insulin glargine and lixisenatide; systemic",
+                  "DOMAIN_ID": "Drug",
+                  "STANDARD_CONCEPT_CAPTION": "Classification",
+                  "CONCEPT_CLASS_ID": "ATC 5th",
+                  "INVALID_REASON": "V"
+                },
+                "includeMapped": false,
+                "includeDescendants": true
+              },
+              {
+                "isExcluded": false,
+                "concept": {
+                  "INVALID_REASON_CAPTION": "Valid",
+                  "CONCEPT_ID": 1123739,
+                  "STANDARD_CONCEPT": "C",
+                  "CONCEPT_CODE": "A10BJ04",
+                  "VOCABULARY_ID": "ATC",
+                  "CONCEPT_NAME": "albiglutide; parenteral",
+                  "DOMAIN_ID": "Drug",
+                  "STANDARD_CONCEPT_CAPTION": "Classification",
+                  "CONCEPT_CLASS_ID": "ATC 5th",
+                  "INVALID_REASON": "V"
+                },
+                "includeMapped": false,
+                "includeDescendants": true
+              },
+              {
+                "isExcluded": false,
+                "concept": {
+                  "INVALID_REASON_CAPTION": "Valid",
+                  "CONCEPT_ID": 1123633,
+                  "STANDARD_CONCEPT": "C",
+                  "CONCEPT_CODE": "A10BJ01",
+                  "VOCABULARY_ID": "ATC",
+                  "CONCEPT_NAME": "exenatide; parenteral",
+                  "DOMAIN_ID": "Drug",
+                  "STANDARD_CONCEPT_CAPTION": "Classification",
+                  "CONCEPT_CLASS_ID": "ATC 5th",
+                  "INVALID_REASON": "V"
+                },
+                "includeMapped": false,
+                "includeDescendants": true
+              },
+              {
+                "isExcluded": false,
+                "concept": {
+                  "INVALID_REASON_CAPTION": "Valid",
+                  "CONCEPT_ID": 1123609,
+                  "STANDARD_CONCEPT": "C",
+                  "CONCEPT_CODE": "A10BJ03",
+                  "VOCABULARY_ID": "ATC",
+                  "CONCEPT_NAME": "lixisenatide; parenteral",
+                  "DOMAIN_ID": "Drug",
+                  "STANDARD_CONCEPT_CAPTION": "Classification",
+                  "CONCEPT_CLASS_ID": "ATC 5th",
+                  "INVALID_REASON": "V"
+                },
+                "includeMapped": false,
+                "includeDescendants": true
+              },
+              {
+                "isExcluded": false,
+                "concept": {
+                  "INVALID_REASON_CAPTION": "Valid",
                   "CONCEPT_ID": 45774435,
                   "STANDARD_CONCEPT": "S",
                   "CONCEPT_CODE": "1551291",
@@ -50029,10 +50097,61 @@
                 },
                 "includeMapped": false,
                 "includeDescendants": true
+              },
+              {
+                "isExcluded": false,
+                "concept": {
+                  "INVALID_REASON_CAPTION": "Valid",
+                  "CONCEPT_ID": 1583722,
+                  "STANDARD_CONCEPT": "S",
+                  "CONCEPT_CODE": "60548",
+                  "VOCABULARY_ID": "RxNorm",
+                  "CONCEPT_NAME": "exenatide",
+                  "DOMAIN_ID": "Drug",
+                  "STANDARD_CONCEPT_CAPTION": "Standard",
+                  "CONCEPT_CLASS_ID": "Ingredient",
+                  "INVALID_REASON": "V"
+                },
+                "includeMapped": false,
+                "includeDescendants": true
+              },
+              {
+                "isExcluded": false,
+                "concept": {
+                  "INVALID_REASON_CAPTION": "Valid",
+                  "CONCEPT_ID": 40170911,
+                  "STANDARD_CONCEPT": "S",
+                  "CONCEPT_CODE": "475968",
+                  "VOCABULARY_ID": "RxNorm",
+                  "CONCEPT_NAME": "liraglutide",
+                  "DOMAIN_ID": "Drug",
+                  "STANDARD_CONCEPT_CAPTION": "Standard",
+                  "CONCEPT_CLASS_ID": "Ingredient",
+                  "INVALID_REASON": "V"
+                },
+                "includeMapped": false,
+                "includeDescendants": true
+              },
+              {
+                "isExcluded": false,
+                "concept": {
+                  "INVALID_REASON_CAPTION": "Valid",
+                  "CONCEPT_ID": 44506754,
+                  "STANDARD_CONCEPT": "S",
+                  "CONCEPT_CODE": "1440051",
+                  "VOCABULARY_ID": "RxNorm",
+                  "CONCEPT_NAME": "lixisenatide",
+                  "DOMAIN_ID": "Drug",
+                  "STANDARD_CONCEPT_CAPTION": "Standard",
+                  "CONCEPT_CLASS_ID": "Ingredient",
+                  "INVALID_REASON": "V"
+                },
+                "includeMapped": false,
+                "includeDescendants": true
               }
             ]},
-            "name": "[PCH] dulaglutide (final) - T2DM",
-            "id": 40
+            "name": "[PCH] GLP1a (final) - T2DM",
+            "id": 42
           },
           {
             "expression": {"items": [
@@ -50239,143 +50358,24 @@
                 },
                 "includeMapped": false,
                 "includeDescendants": true
-              },
-              {
-                "isExcluded": false,
-                "concept": {
-                  "INVALID_REASON_CAPTION": "Valid",
-                  "CONCEPT_ID": 1123609,
-                  "STANDARD_CONCEPT": "C",
-                  "CONCEPT_CODE": "A10BJ03",
-                  "VOCABULARY_ID": "ATC",
-                  "CONCEPT_NAME": "lixisenatide; parenteral",
-                  "DOMAIN_ID": "Drug",
-                  "STANDARD_CONCEPT_CAPTION": "Classification",
-                  "CONCEPT_CLASS_ID": "ATC 5th",
-                  "INVALID_REASON": "V"
-                },
-                "includeMapped": false,
-                "includeDescendants": true
-              },
-              {
-                "isExcluded": false,
-                "concept": {
-                  "INVALID_REASON_CAPTION": "Valid",
-                  "CONCEPT_ID": 44506754,
-                  "STANDARD_CONCEPT": "S",
-                  "CONCEPT_CODE": "1440051",
-                  "VOCABULARY_ID": "RxNorm",
-                  "CONCEPT_NAME": "lixisenatide",
-                  "DOMAIN_ID": "Drug",
-                  "STANDARD_CONCEPT_CAPTION": "Standard",
-                  "CONCEPT_CLASS_ID": "Ingredient",
-                  "INVALID_REASON": "V"
-                },
-                "includeMapped": false,
-                "includeDescendants": true
-              },
-              {
-                "isExcluded": false,
-                "concept": {
-                  "INVALID_REASON_CAPTION": "Valid",
-                  "CONCEPT_ID": 40170911,
-                  "STANDARD_CONCEPT": "S",
-                  "CONCEPT_CODE": "475968",
-                  "VOCABULARY_ID": "RxNorm",
-                  "CONCEPT_NAME": "liraglutide",
-                  "DOMAIN_ID": "Drug",
-                  "STANDARD_CONCEPT_CAPTION": "Standard",
-                  "CONCEPT_CLASS_ID": "Ingredient",
-                  "INVALID_REASON": "V"
-                },
-                "includeMapped": false,
-                "includeDescendants": true
-              },
-              {
-                "isExcluded": false,
-                "concept": {
-                  "INVALID_REASON_CAPTION": "Valid",
-                  "CONCEPT_ID": 1501756,
-                  "STANDARD_CONCEPT": "C",
-                  "CONCEPT_CODE": "A10AE54",
-                  "VOCABULARY_ID": "ATC",
-                  "CONCEPT_NAME": "insulin glargine and lixisenatide; systemic",
-                  "DOMAIN_ID": "Drug",
-                  "STANDARD_CONCEPT_CAPTION": "Classification",
-                  "CONCEPT_CLASS_ID": "ATC 5th",
-                  "INVALID_REASON": "V"
-                },
-                "includeMapped": false,
-                "includeDescendants": true
-              },
-              {
-                "isExcluded": false,
-                "concept": {
-                  "INVALID_REASON_CAPTION": "Valid",
-                  "CONCEPT_ID": 1123633,
-                  "STANDARD_CONCEPT": "C",
-                  "CONCEPT_CODE": "A10BJ01",
-                  "VOCABULARY_ID": "ATC",
-                  "CONCEPT_NAME": "exenatide; parenteral",
-                  "DOMAIN_ID": "Drug",
-                  "STANDARD_CONCEPT_CAPTION": "Classification",
-                  "CONCEPT_CLASS_ID": "ATC 5th",
-                  "INVALID_REASON": "V"
-                },
-                "includeMapped": false,
-                "includeDescendants": true
-              },
-              {
-                "isExcluded": false,
-                "concept": {
-                  "INVALID_REASON_CAPTION": "Valid",
-                  "CONCEPT_ID": 1583722,
-                  "STANDARD_CONCEPT": "S",
-                  "CONCEPT_CODE": "60548",
-                  "VOCABULARY_ID": "RxNorm",
-                  "CONCEPT_NAME": "exenatide",
-                  "DOMAIN_ID": "Drug",
-                  "STANDARD_CONCEPT_CAPTION": "Standard",
-                  "CONCEPT_CLASS_ID": "Ingredient",
-                  "INVALID_REASON": "V"
-                },
-                "includeMapped": false,
-                "includeDescendants": true
-              },
-              {
-                "isExcluded": false,
-                "concept": {
-                  "INVALID_REASON_CAPTION": "Valid",
-                  "CONCEPT_ID": 1123739,
-                  "STANDARD_CONCEPT": "C",
-                  "CONCEPT_CODE": "A10BJ04",
-                  "VOCABULARY_ID": "ATC",
-                  "CONCEPT_NAME": "albiglutide; parenteral",
-                  "DOMAIN_ID": "Drug",
-                  "STANDARD_CONCEPT_CAPTION": "Classification",
-                  "CONCEPT_CLASS_ID": "ATC 5th",
-                  "INVALID_REASON": "V"
-                },
-                "includeMapped": false,
-                "includeDescendants": true
               }
             ]},
-            "name": "[PCH] SGLT2i and other GLP1a (final) - T2DM",
-            "id": 41
+            "name": "[PCH] SGLT2i (final) - T2DM",
+            "id": 43
           }
         ],
         "EndStrategy": {"CustomEra": {
-          "DrugCodesetId": 40,
+          "DrugCodesetId": 42,
           "DaysSupplyOverride": null,
           "GapDays": 180,
-          "Offset": 90
+          "Offset": 0
         }},
         "cdmVersionRange": ">=5.0.0",
         "CensoringCriteria": [{"DrugExposure": {
           "OccurrenceEndDate": null,
           "CorrelatedCriteria": null,
           "DrugSourceConcept": null,
-          "CodesetId": 41,
+          "CodesetId": 43,
           "DrugTypeExclude": false,
           "Quantity": null,
           "DrugType": null,
@@ -50515,7 +50515,7 @@
                   "OccurrenceEndDate": null,
                   "CorrelatedCriteria": null,
                   "DrugSourceConcept": null,
-                  "CodesetId": 41,
+                  "CodesetId": 43,
                   "DrugTypeExclude": false,
                   "Quantity": null,
                   "DrugType": null,
@@ -51004,7 +51004,7 @@
             "OccurrenceEndDate": null,
             "CorrelatedCriteria": null,
             "DrugSourceConcept": null,
-            "CodesetId": 40,
+            "CodesetId": 42,
             "DrugTypeExclude": false,
             "Quantity": null,
             "DrugType": null,
@@ -52340,7 +52340,7 @@
           "DrugCodesetId": 28,
           "DaysSupplyOverride": null,
           "GapDays": 30,
-          "Offset": 30
+          "Offset": 0
         }},
         "cdmVersionRange": ">=5.0.0",
         "CensoringCriteria": [{"DrugExposure": {
@@ -53015,7 +53015,7 @@
       "id": 3968
     }
   ],
-  "name": "[PCH] SGLT2i vs GLP1a (+DPP4i) - T2DM final (0925)",
+  "name": "[PCH] SGLT2i vs GLP1a - T2DM final",
   "conceptSets": [
     {
       "expression": {"items": [
@@ -55378,7 +55378,7 @@
   ],
   "doPositiveControlSynthesis": false,
   "id": 716,
-  "packageName": "obesityhira1011",
+  "packageName": "DMhirav2",
   "negativeControls": [
     {
       "targetId": 2683,

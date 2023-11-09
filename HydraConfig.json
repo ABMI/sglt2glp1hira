@@ -5,11 +5,11 @@
 	"actions":[{
 		"type": "fileNameFindAndReplace",
 		"input": "packageName",
-		"find": "obesityhira1011"
+		"find": "DMhirav2"
 	},{
 		"type": "stringFindAndReplace",
 		"input": "packageName",
-		"find": "obesityhira1011"
+		"find": "DMhirav2"
 	},{
 		"type": "jsonArrayToCsv",
 		"input": "cohortDefinitions",

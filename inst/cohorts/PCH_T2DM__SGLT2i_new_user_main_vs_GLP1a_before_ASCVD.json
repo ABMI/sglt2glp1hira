@@ -1198,7 +1198,7 @@
     "DrugCodesetId": 28,
     "DaysSupplyOverride": null,
     "GapDays": 30,
-    "Offset": 30
+    "Offset": 0
   }},
   "cdmVersionRange": ">=5.0.0",
   "CensoringCriteria": [{"DrugExposure": {
