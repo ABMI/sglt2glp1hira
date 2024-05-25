@@ -1,0 +1,36 @@
+atlasId,atlasName,cohortId,name
+2683,"[PCH] T2DM + GLP1a new user (main, vs SGLT2i)",2683,PCH_T2DM__GLP1a_new_user_main_vs_SGLT2i
+2672,"[PCH] T2DM + SGLT2i new user (main, vs GLP1a)",2672,PCH_T2DM__SGLT2i_new_user_main_vs_GLP1a
+2176,[JJH] All cause mortality,2176,JJH_All_cause_mortality
+2712,[PCH] Acute renal failure,2712,PCH_Acute_renal_failure
+2713,[PCH] Chronic renal failure - osteoporosis,2713,PCH_Chronic_renal_failure__osteoporosis
+2714,[PCH] ESRD or HD or PD,2714,PCH_ESRD_or_HD_or_PD
+2715,[PCH] Sudden cardiac death,2715,PCH_Sudden_cardiac_death
+2718,[PCH] Acute myocardial infarction,2718,PCH_Acute_myocardial_infarction
+2719,[PCH] Heart failure with hospitalization,2719,PCH_Heart_failure_with_hospitalization
+2720,[PCH] Coronary revascularisation (PCI & CABG),2720,PCH_Coronary_revascularisation_PCI__CABG
+2721,[PCH] Stroke,2721,PCH_Stroke
+2732,[PCH] Diabetic ketoacidosis,2732,PCH_Diabetic_ketoacidosis
+2733,[PCH] GU infection,2733,PCH_GU_infection
+2737,[PCH] 3-point MACE,2737,PCH_3point_MACE
+2738,[PCH] 4-point MACE,2738,PCH_4point_MACE
+2739,[PCH] 3-point MACE or ESRD or HD,2739,PCH_3point_MACE_or_ESRD_or_HD
+2740,[PCH] 4-point MACE or ESRD or HD,2740,PCH_4point_MACE_or_ESRD_or_HD
+2742,"[PCH] T2DM + GLP1a new user (main, vs SGLT2i) (age above 65)",2742,PCH_T2DM__GLP1a_new_user_main_vs_SGLT2i_age_above_65
+2743,"[PCH] T2DM + SGLT2i new user (main, vs GLP1a) (age above 65)",2743,PCH_T2DM__SGLT2i_new_user_main_vs_GLP1a_age_above_65
+2744,"[PCH] T2DM + GLP1a new user (main, vs SGLT2i) (male)",2744,PCH_T2DM__GLP1a_new_user_main_vs_SGLT2i_male
+2745,"[PCH] T2DM + SGLT2i new user (main, vs GLP1a) (male)",2745,PCH_T2DM__SGLT2i_new_user_main_vs_GLP1a_male
+2747,"[PCH] T2DM + GLP1a new user (main, vs SGLT2i) (female)",2747,PCH_T2DM__GLP1a_new_user_main_vs_SGLT2i_female
+2748,"[PCH] T2DM + SGLT2i new user (main, vs GLP1a) (female)",2748,PCH_T2DM__SGLT2i_new_user_main_vs_GLP1a_female
+2766,"[PCH] T2DM + GLP1a new user (main, vs SGLT2i) (before ASCVD)",2766,PCH_T2DM__GLP1a_new_user_main_vs_SGLT2i_before_ASCVD
+2767,"[PCH] T2DM + SGLT2i new user (main, vs GLP1a) (before ASCVD)",2767,PCH_T2DM__SGLT2i_new_user_main_vs_GLP1a_before_ASCVD
+2752,"[PCH] T2DM + GLP1a new user (main, vs SGLT2i) (+HF)",2752,PCH_T2DM__GLP1a_new_user_main_vs_SGLT2i_HF
+2746,"[PCH] T2DM + SGLT2i new user (main, vs GLP1a) (+HF)",2746,PCH_T2DM__SGLT2i_new_user_main_vs_GLP1a_HF
+2755,"[PCH] T2DM + GLP1a new user (main, vs SGLT2i) (+CKD)",2755,PCH_T2DM__GLP1a_new_user_main_vs_SGLT2i_CKD
+2754,"[PCH] T2DM + SGLT2i new user (main, vs GLP1a) (+CKD)",2754,PCH_T2DM__SGLT2i_new_user_main_vs_GLP1a_CKD
+2741,"[PCH] T2DM + GLP1a new user (main, vs SGLT2i) (age below 65)",2741,PCH_T2DM__GLP1a_new_user_main_vs_SGLT2i_age_below_65
+2787,"[PCH] T2DM + SGLT2i new user (main, vs GLP1a) (age below 65)",2787,PCH_T2DM__SGLT2i_new_user_main_vs_GLP1a_age_below_65
+3965,"[PCH] T2DM + GLP1a new user (main, vs SGLT2i) (previous metformin)",3965,PCH_T2DM__GLP1a_new_user_main_vs_SGLT2i_previous_metformin
+3966,"[PCH] T2DM + SGLT2i new user (main, vs GLP1a) (previous metformin)",3966,PCH_T2DM__SGLT2i_new_user_main_vs_GLP1a_previous_metformin
+3967,"[PCH] T2DM + GLP1a new user (main, vs SGLT2i) (clean subgroup)",3967,PCH_T2DM__GLP1a_new_user_main_vs_SGLT2i_clean_subgroup
+3968,"[PCH] T2DM + SGLT2i new user (main, vs GLP1a) (clean subgroup)",3968,PCH_T2DM__SGLT2i_new_user_main_vs_GLP1a_clean_subgroup

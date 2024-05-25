@@ -1,0 +1,272 @@
+{
+  "ExpressionLimit": {"Type": "All"},
+  "CollapseSettings": {
+    "CollapseType": "ERA",
+    "EraPad": 0
+  },
+  "CensorWindow": {
+    "StartDate": null,
+    "EndDate": null
+  },
+  "ConceptSets": [{
+    "expression": {"items": [
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 439847,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "1386000",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Intracranial hemorrhage",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 432923,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "21454007",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Subarachnoid hemorrhage",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 376713,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "274100004",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Cerebral hemorrhage",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 372924,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "20059004",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Cerebral artery occlusion",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 375557,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "75543006",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Cerebral embolism",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 443454,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "432504007",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Cerebral infarction",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 441874,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "71444005",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Cerebral thrombosis",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 4319331,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "95460007",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Cerebellar infarction",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 4112026,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "195243003",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Sequelae of cerebral infarction",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 763168,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "436781000124104",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Intracranial artery occlusion with infarction",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 4111710,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "195212005",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Brainstem stroke syndrome",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      }
+    ]},
+    "name": "[PCH] stroke",
+    "id": 0
+  }],
+  "EndStrategy": {"DateOffset": {
+    "DateField": "StartDate",
+    "Offset": 0
+  }},
+  "cdmVersionRange": ">=5.0.0",
+  "CensoringCriteria": [],
+  "QualifiedLimit": {"Type": "First"},
+  "InclusionRules": [],
+  "PrimaryCriteria": {
+    "CriteriaList": [{"ConditionOccurrence": {
+      "OccurrenceEndDate": null,
+      "CorrelatedCriteria": null,
+      "ConditionTypeExclude": false,
+      "CodesetId": 0,
+      "ProviderSpecialty": null,
+      "Gender": null,
+      "VisitType": [
+        {
+          "INVALID_REASON_CAPTION": "Unknown",
+          "CONCEPT_ID": 9203,
+          "STANDARD_CONCEPT": null,
+          "CONCEPT_CODE": "ER",
+          "VOCABULARY_ID": "Visit",
+          "CONCEPT_NAME": "Emergency Room Visit",
+          "DOMAIN_ID": "Visit",
+          "STANDARD_CONCEPT_CAPTION": "Unknown",
+          "CONCEPT_CLASS_ID": null,
+          "INVALID_REASON": null
+        },
+        {
+          "INVALID_REASON_CAPTION": "Unknown",
+          "CONCEPT_ID": 9201,
+          "STANDARD_CONCEPT": null,
+          "CONCEPT_CODE": "IP",
+          "VOCABULARY_ID": "Visit",
+          "CONCEPT_NAME": "Inpatient Visit",
+          "DOMAIN_ID": "Visit",
+          "STANDARD_CONCEPT_CAPTION": "Unknown",
+          "CONCEPT_CLASS_ID": null,
+          "INVALID_REASON": null
+        },
+        {
+          "INVALID_REASON_CAPTION": "Unknown",
+          "CONCEPT_ID": 262,
+          "STANDARD_CONCEPT": null,
+          "CONCEPT_CODE": "ERIP",
+          "VOCABULARY_ID": "Visit",
+          "CONCEPT_NAME": "Emergency Room and Inpatient Visit",
+          "DOMAIN_ID": "Visit",
+          "STANDARD_CONCEPT_CAPTION": "Unknown",
+          "CONCEPT_CLASS_ID": null,
+          "INVALID_REASON": null
+        }
+      ],
+      "First": null,
+      "OccurrenceStartDate": null,
+      "ConditionType": null,
+      "ConditionSourceConcept": null,
+      "ConditionStatus": null,
+      "StopReason": null,
+      "Age": null
+    }}],
+    "PrimaryCriteriaLimit": {"Type": "All"},
+    "ObservationWindow": {
+      "PostDays": 0,
+      "PriorDays": 0
+    }
+  }
+}

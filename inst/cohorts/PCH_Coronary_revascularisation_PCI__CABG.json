@@ -1,0 +1,319 @@
+{
+  "ExpressionLimit": {"Type": "All"},
+  "CollapseSettings": {
+    "CollapseType": "ERA",
+    "EraPad": 0
+  },
+  "CensorWindow": {
+    "StartDate": null,
+    "EndDate": null
+  },
+  "ConceptSets": [{
+    "expression": {"items": [
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 4283892,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "36969009",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Placement of stent in coronary artery",
+          "DOMAIN_ID": "Procedure",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Procedure",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 4081578,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "24088005",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Coronary artery atherectomy",
+          "DOMAIN_ID": "Procedure",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Procedure",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 2725289,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "021209W",
+          "VOCABULARY_ID": "ICD10PCS",
+          "CONCEPT_NAME": "Bypass Coronary Artery, Three Arteries from Aorta with Autologous Venous Tissue, Open Approach",
+          "DOMAIN_ID": "Procedure",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "ICD10PCS",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 4106548,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "29819009",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Aortocoronary bypass of one coronary artery",
+          "DOMAIN_ID": "Procedure",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Procedure",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 2725227,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "021109W",
+          "VOCABULARY_ID": "ICD10PCS",
+          "CONCEPT_NAME": "Bypass Coronary Artery, Two Arteries from Aorta with Autologous Venous Tissue, Open Approach",
+          "DOMAIN_ID": "Procedure",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "ICD10PCS",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 4284104,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "67166004",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Aortocoronary artery bypass graft",
+          "DOMAIN_ID": "Procedure",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Procedure",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 4063237,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "17073005",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Aortocoronary artery bypass graft with vein graft",
+          "DOMAIN_ID": "Procedure",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Procedure",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 4148030,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "309814006",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Aortocoronary bypass grafting",
+          "DOMAIN_ID": "Procedure",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Procedure",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 4184832,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "41339005",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Coronary angioplasty",
+          "DOMAIN_ID": "Procedure",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Procedure",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 4336464,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "232717009",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Coronary artery bypass graft",
+          "DOMAIN_ID": "Procedure",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Procedure",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 4305852,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "418824004",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Off-pump coronary artery bypass",
+          "DOMAIN_ID": "Procedure",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Procedure",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 43527998,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "92928",
+          "VOCABULARY_ID": "CPT4",
+          "CONCEPT_NAME": "Percutaneous transcatheter placement of intracoronary stent(s), with coronary angioplasty when performed; single major coronary artery or branch",
+          "DOMAIN_ID": "Procedure",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "CPT4",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 4006788,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "11101003",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Percutaneous transluminal coronary angioplasty",
+          "DOMAIN_ID": "Procedure",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Procedure",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 4283892,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "36969009",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Placement of stent in coronary artery",
+          "DOMAIN_ID": "Procedure",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Procedure",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 4020213,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "175029007",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Prosthetic bypass of coronary artery",
+          "DOMAIN_ID": "Procedure",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Procedure",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 37017419,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "713689002",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Repair of coronary artery",
+          "DOMAIN_ID": "Procedure",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Procedure",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      }
+    ]},
+    "name": "[PCH] Coronary revascularisation (PCI & CABG)",
+    "id": 0
+  }],
+  "EndStrategy": {"DateOffset": {
+    "DateField": "StartDate",
+    "Offset": 0
+  }},
+  "cdmVersionRange": ">=5.0.0",
+  "CensoringCriteria": [],
+  "QualifiedLimit": {"Type": "First"},
+  "InclusionRules": [],
+  "PrimaryCriteria": {
+    "CriteriaList": [{"ProcedureOccurrence": {
+      "ProcedureType": null,
+      "CorrelatedCriteria": null,
+      "CodesetId": 0,
+      "ProcedureSourceConcept": null,
+      "Quantity": null,
+      "ProviderSpecialty": null,
+      "Gender": null,
+      "ProcedureTypeExclude": false,
+      "VisitType": null,
+      "First": null,
+      "OccurrenceStartDate": null,
+      "Modifier": null,
+      "Age": null
+    }}],
+    "PrimaryCriteriaLimit": {"Type": "All"},
+    "ObservationWindow": {
+      "PostDays": 0,
+      "PriorDays": 0
+    }
+  }
+}
