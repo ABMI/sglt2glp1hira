@@ -5,11 +5,11 @@
 	"actions":[{
 		"type": "fileNameFindAndReplace",
 		"input": "packageName",
-		"find": "glp1Hira"
+		"find": "hira0611"
 	},{
 		"type": "stringFindAndReplace",
 		"input": "packageName",
-		"find": "glp1Hira"
+		"find": "hira0611"
 	},{
 		"type": "jsonArrayToCsv",
 		"input": "cohortDefinitions",
