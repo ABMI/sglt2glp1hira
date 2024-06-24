@@ -1,6 +1,6 @@
 # Copyright 2020 Observational Health Data Sciences and Informatics
 #
-# This file is part of hira0611
+# This file is part of DMhira
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -87,7 +87,7 @@ exportAnalyses <- function(outputFolder, exportFolder) {
   
   cmAnalysisListFile <- system.file("settings",
                                     "cmAnalysisList.json",
-                                    package = "hira0611")
+                                    package = "DMhira")
   cmAnalysisList <- CohortMethod::loadCmAnalysisList(cmAnalysisListFile)
   cmAnalysisToRow <- function(cmAnalysis) {
     ParallelLogger::saveSettingsToJson(cmAnalysis, tempFileName)
@@ -125,14 +125,14 @@ exportAnalyses <- function(outputFolder, exportFolder) {
 exportExposures <- function(outputFolder, exportFolder) {
   ParallelLogger::logInfo("Exporting exposures")
   ParallelLogger::logInfo("- exposure_of_interest table")
-  pathToCsv <- system.file("settings", "TcosOfInterest.csv", package = "hira0611")
+  pathToCsv <- system.file("settings", "TcosOfInterest.csv", package = "DMhira")
   tcosOfInterest <- read.csv(pathToCsv, stringsAsFactors = FALSE)
-  pathToCsv <- system.file("settings", "CohortsToCreate.csv", package = "hira0611")
+  pathToCsv <- system.file("settings", "CohortsToCreate.csv", package = "DMhira")
   cohortsToCreate <- read.csv(pathToCsv)
   createExposureRow <- function(exposureId) {
     atlasName <- as.character(cohortsToCreate$atlasName[cohortsToCreate$cohortId == exposureId])
     name <- as.character(cohortsToCreate$name[cohortsToCreate$cohortId == exposureId])
-    cohortFileName <- system.file("cohorts", paste0(name, ".json"), package = "hira0611")
+    cohortFileName <- system.file("cohorts", paste0(name, ".json"), package = "DMhira")
     definition <- readChar(cohortFileName, file.info(cohortFileName)$size)
     return(tibble::tibble(exposureId = exposureId,
                           exposureName = atlasName,
@@ -149,12 +149,12 @@ exportExposures <- function(outputFolder, exportFolder) {
 exportOutcomes <- function(outputFolder, exportFolder) {
   ParallelLogger::logInfo("Exporting outcomes")
   ParallelLogger::logInfo("- outcome_of_interest table")
-  pathToCsv <- system.file("settings", "CohortsToCreate.csv", package = "hira0611")
+  pathToCsv <- system.file("settings", "CohortsToCreate.csv", package = "DMhira")
   cohortsToCreate <- read.csv(pathToCsv)
   createOutcomeRow <- function(outcomeId) {
     atlasName <- as.character(cohortsToCreate$atlasName[cohortsToCreate$cohortId == outcomeId])
     name <- as.character(cohortsToCreate$name[cohortsToCreate$cohortId == outcomeId])
-    cohortFileName <- system.file("cohorts", paste0(name, ".json"), package = "hira0611")
+    cohortFileName <- system.file("cohorts", paste0(name, ".json"), package = "DMhira")
     definition <- readChar(cohortFileName, file.info(cohortFileName)$size)
     return(tibble::tibble(outcomeId = outcomeId,
                           outcomeName = atlasName,
@@ -169,7 +169,7 @@ exportOutcomes <- function(outputFolder, exportFolder) {
   
   
   ParallelLogger::logInfo("- negative_control_outcome table")
-  pathToCsv <- system.file("settings", "NegativeControls.csv", package = "hira0611")
+  pathToCsv <- system.file("settings", "NegativeControls.csv", package = "DMhira")
   negativeControls <- read.csv(pathToCsv)
   negativeControls <- negativeControls[tolower(negativeControls$type) == "outcome", ]
   negativeControls <- negativeControls[, c("outcomeId", "outcomeName")]
@@ -181,7 +181,7 @@ exportOutcomes <- function(outputFolder, exportFolder) {
   synthesisSummaryFile <- file.path(outputFolder, "SynthesisSummary.csv")
   if (file.exists(synthesisSummaryFile)) {
     positiveControls <- read.csv(synthesisSummaryFile, stringsAsFactors = FALSE)
-    pathToCsv <- system.file("settings", "NegativeControls.csv", package = "hira0611")
+    pathToCsv <- system.file("settings", "NegativeControls.csv", package = "DMhira")
     negativeControls <- read.csv(pathToCsv)
     positiveControls <- merge(positiveControls,
                               negativeControls[, c("outcomeId", "outcomeName")])
@@ -844,7 +844,7 @@ exportDiagnostics <- function(outputFolder,
     dir.create(tempFolder)
   }
   cluster <- ParallelLogger::makeCluster(min(4, maxCores))
-  ParallelLogger::clusterRequire(cluster, "hira0611")
+  ParallelLogger::clusterRequire(cluster, "DMhira")
   tasks <- split(reference, seq(nrow(reference)))
   ParallelLogger::clusterApply(cluster,
                                tasks,
